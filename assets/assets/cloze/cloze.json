@@ -1,0 +1,3496 @@
+{
+ "groups": [
+  {
+   "id": "sh1",
+   "name": "소흡 1차",
+   "lectures": [
+    {
+     "id": "1",
+     "name": "1. 소화기계통의 발생(1)_장경구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-1-1",
+       "t": "foregut에 혈액을 주는 동맥은 [[celiac trunk]]",
+       "k": 1,
+       "n": "강조점 #1. celiac trunk = foregut, SMA = midgut, IMA = hindgut."
+      },
+      {
+       "id": "cz-v2-sh1-1-2",
+       "t": "midgut에 혈액을 주는 동맥은 [[SMA (superior mesenteric a.)]]",
+       "k": 1,
+       "n": "강조점 #1. celiac trunk = foregut, SMA = midgut, IMA = hindgut."
+      },
+      {
+       "id": "cz-v2-sh1-1-3",
+       "t": "hindgut에 혈액을 주는 동맥은 [[IMA (inferior mesenteric a.)]]",
+       "k": 1,
+       "n": "강조점 #1. celiac trunk = foregut, SMA = midgut, IMA = hindgut."
+      },
+      {
+       "id": "cz-v2-sh1-1-4",
+       "t": "esophageal epithelium과 esophageal glandular epithelium의 기원은 [[foregut endoderm]]",
+       "k": 1,
+       "n": "강조점 #2. 상피·샘상피 = foregut endoderm."
+      },
+      {
+       "id": "cz-v2-sh1-1-5",
+       "t": "식도의 connective tissue와 아래 1/3 smooth muscle의 기원은 [[splanchnic mesenchyme (내장중배엽)]]",
+       "k": 1,
+       "n": "강조점 #2."
+      },
+      {
+       "id": "cz-v2-sh1-1-6",
+       "t": "식도 위 1/3 striated muscle의 기원은 [[pharyngeal arch-associated mesoderm (인두궁 중배엽)]]",
+       "k": 1,
+       "n": "강조점 #2. 위 1/3은 횡문근, 아래 1/3은 평활근."
+      },
+      {
+       "id": "cz-v2-sh1-1-7",
+       "t": "endoderm-mesoderm 상호작용을 매개하는 핵심 인자는 [[Sonic hedgehog (Shh)]]",
+       "k": 1,
+       "n": "王王. 학습목표에 있어 Shh 정도는 외우기 (필족 파란 테두리)."
+      },
+      {
+       "id": "cz-v2-sh1-1-8",
+       "t": "간외 담관이 섬유염증성으로 막혀 황달, pale stool, dark urine이 생기는 병은 [[extrahepatic biliary atresia]]",
+       "k": 1,
+       "n": "王. 진행하면 cirrhosis."
+      },
+      {
+       "id": "cz-v2-sh1-1-9",
+       "t": "extrahepatic biliary atresia의 수술은 [[Kasai portoenterostomy]]",
+       "k": 1,
+       "n": "王."
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "name": "2. 소화기계통의 발생(2)_장경구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-2-1",
+       "t": "midgut이 복강으로 다시 들어오는 시기는 [[10주]]이고, 이때 누적 회전은 [[270도]]",
+       "k": 0,
+       "n": "6주 90도 + 10주 180도 추가."
+      },
+      {
+       "id": "cz-v2-sh1-2-2",
+       "t": "vitelline duct 중 창자 쪽 일부만 남아 주머니처럼 튀어나온 것은 [[Meckel's diverticulum]]",
+       "k": 1,
+       "n": "王王王王王. 끝이 vitelline ligament로 배꼽에 붙어 있을 수도, 떨어져 있을 수도 있음."
+      },
+      {
+       "id": "cz-v2-sh1-2-3",
+       "t": "Meckel's diverticulum은 복벽이 정상적으로 막혀 있어 [[밖으로 튀어나오지 않는다]]",
+       "k": 1,
+       "n": "王王王王王. 음식물·병균이 들어가면 염증."
+      },
+      {
+       "id": "cz-v2-sh1-2-4",
+       "t": "anal canal의 위·아래 혈관, 림프, 감각신경이 달라지는 기준선은 [[pectinate line]]",
+       "k": 1,
+       "n": "王王王."
+      },
+      {
+       "id": "cz-v2-sh1-2-5",
+       "t": "pectinate line 위(upper 2/3)의 기원은 [[hindgut endoderm]]",
+       "k": 1,
+       "n": "王王王王王. 아래 1/3은 proctodeum ectoderm."
+      },
+      {
+       "id": "cz-v2-sh1-2-6",
+       "t": "pectinate line 아래(lower 1/3)의 기원은 [[proctodeum ectoderm (항문오목)]]",
+       "k": 1,
+       "n": "王王王王王. 위 2/3은 hindgut endoderm."
+      },
+      {
+       "id": "cz-v2-sh1-2-7",
+       "t": "pectinate line 위는 통증에 [[둔감]], 아래는 [[매우 민감]]",
+       "k": 1,
+       "n": "王王王王王."
+      },
+      {
+       "id": "cz-v2-sh1-2-8",
+       "t": "nonrotation, incomplete, reversed rotation을 묶어 [[intestinal malrotation]]이라 한다",
+       "k": 1,
+       "n": "王王王王王. mesentery로 많이 움직여 혈관을 막음·volvulus → obstruction, necrosis."
+      },
+      {
+       "id": "cz-v2-sh1-2-9",
+       "t": "intestinal malrotation에서 장이 꼬여 혈관이 막히는 것은 [[volvulus]]",
+       "k": 1,
+       "n": "王王王王王. 증상: bilious vomiting, 복부팽만, 장폐쇄."
+      },
+      {
+       "id": "cz-v2-sh1-2-10",
+       "t": "nonrotation CT에서 소장은 [[오른쪽]], 대장은 [[왼쪽]]에 있다",
+       "k": 1,
+       "n": "王王王王王 왼쪽 CT 사진 매우 강조 (그림 A nonrotation과 같은 형태)."
+      },
+      {
+       "id": "cz-v2-sh1-2-11",
+       "t": "정상은 vacuole이 lumen 1개가 되는데, [[septum]]이 생기면 duplication",
+       "k": 0,
+       "n": "duplication = additional segment(cystic/tubular)."
+      },
+      {
+       "id": "cz-v2-sh1-2-12",
+       "t": "자라 내려오며 cloaca를 나누는 것은 [[urorectal septum]]",
+       "k": 1,
+       "n": "王王王王王."
+      },
+      {
+       "id": "cz-v2-sh1-2-13",
+       "t": "cloaca가 나뉘어 앞쪽(ventral)에는 [[urogenital sinus]], 뒤쪽(dorsal)에는 [[anorectal canal]]이 생긴다",
+       "k": 1,
+       "n": "王王王王王."
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "name": "3. Abdominopelvic cavity의 해부학적 특성과 구조_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-3-1",
+       "t": "kidney 수술은 앞쪽이 아니라 [[뒤(등)]]에서 한다",
+       "k": 1,
+       "n": "王王."
+      },
+      {
+       "id": "cz-v2-sh1-3-2",
+       "t": "abdominal wall을 열었을 때 가장 먼저 보이는 구조는 [[greater omentum]]",
+       "k": 1,
+       "n": "王王王. stomach과 transverse colon에 붙어 쳐져 있고, 마지막으로 한 번 더 보호함."
+      },
+      {
+       "id": "cz-v2-sh1-3-3",
+       "t": "caval opening의 척추 높이는 [[T8]]",
+       "k": 1,
+       "n": "王王. 'I ate (8) ten eggs (10) at twelve (12)' — IVC T8, esophagus T10, aorta T12."
+      },
+      {
+       "id": "cz-v2-sh1-3-4",
+       "t": "esophageal hiatus의 척추 높이는 [[T10]]",
+       "k": 1,
+       "n": "王王. I ate (8) ten eggs (10) at twelve (12)."
+      },
+      {
+       "id": "cz-v2-sh1-3-5",
+       "t": "aortic hiatus의 척추 높이는 [[T12]]",
+       "k": 1,
+       "n": "王王. I ate (8) ten eggs (10) at twelve (12)."
+      },
+      {
+       "id": "cz-v2-sh1-3-6",
+       "t": "단면에서 lung이 보이면 [[thoracic]] level, urinary bladder와 femur head가 보이면 [[pelvic]] level",
+       "k": 1,
+       "n": "王 body cavities figure. liver, stomach, spleen이 보이면 abdominal level."
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "name": "4. 앞배벽과 inguinal region의 해부학적 구조_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-4-1",
+       "t": "세 근육 aponeurosis의 주행이 바뀌는 기준선은 [[arcuate line]]",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-4-2",
+       "t": "arcuate line 위에서 rectus abdominis 앞에는 [[external oblique]]와 [[internal oblique]]의 aponeurosis가 있다",
+       "k": 1,
+       "n": "王. 뒤에는 internal oblique + transversus abdominis."
+      },
+      {
+       "id": "cz-v2-sh1-4-3",
+       "t": "arcuate line 아래에서 rectus abdominis 앞에는 [[세 근육 모두]]의 aponeurosis가 있다",
+       "k": 1,
+       "n": "王. 뒤에는 transversalis fascia만."
+      },
+      {
+       "id": "cz-v2-sh1-4-4",
+       "t": "arcuate line 아래에서 rectus abdominis 뒤에는 [[transversalis fascia]]만 있다",
+       "k": 1,
+       "n": "王. 세 근육 aponeurosis는 모두 앞으로."
+      },
+      {
+       "id": "cz-v2-sh1-4-5",
+       "t": "superior epigastric a.와 inferior epigastric a.는 rectus abdominis 뒤에서 [[anastomosis]]한다",
+       "k": 1,
+       "n": "王 deep dissection 그림."
+      },
+      {
+       "id": "cz-v2-sh1-4-6",
+       "t": "뒤벽이 약해 direct hernia가 생길 수 있는 부위는 [[Hesselbach triangle]]",
+       "k": 1,
+       "n": "王."
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "name": "5. 소화관의 조직학적 특성(1)_장경구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-5-1",
+       "t": "식도의 상피는 [[stratified squamous epithelium]]",
+       "k": 1,
+       "n": "王王王 교수님 첫 번째 강조점. esophagus와 anus를 빼면 모두 simple columnar."
+      },
+      {
+       "id": "cz-v2-sh1-5-2",
+       "t": "esophagus와 anus를 뺀 나머지 소화관 상피는 [[simple columnar epithelium]]",
+       "k": 1,
+       "n": "王王王 교수님 첫 번째 강조점."
+      },
+      {
+       "id": "cz-v2-sh1-5-3",
+       "t": "isthmus부터 base까지 있고 mitochondria가 잘 발달한 산호성 세포는 [[parietal cell]]",
+       "k": 1,
+       "n": "王王王 교수님 두 번째 강조점."
+      },
+      {
+       "id": "cz-v2-sh1-5-4",
+       "t": "parietal cell에서 HCl이 분비되는 통로 구조는 [[intracellular canaliculi]]",
+       "k": 1,
+       "n": "王王王. tubulovesicle도 발달."
+      },
+      {
+       "id": "cz-v2-sh1-5-5",
+       "t": "parietal cell이 분비하는 두 물질은 [[HCl]]과 [[intrinsic factor]]",
+       "k": 1,
+       "n": "王王王. HCl → 위 pH 산성 유지, IF → vit B12 흡수."
+      },
+      {
+       "id": "cz-v2-sh1-5-6",
+       "t": "자가면역으로 parietal cell이 파괴되어 IF가 부족해 생기는 병은 [[pernicious anemia]]",
+       "k": 1,
+       "n": "王. vit B12 흡수 불능."
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "name": "6. 소화관의 조직학적 특성(2)_장경구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-6-1",
+       "t": "장샘 기저부(crypt 아래쪽)에 있고 acidophilic granule을 가진 세포는 [[Paneth cell]]",
+       "k": 1,
+       "n": "王王王 강조점 #1. 강의록: base of gland, pyramidal-shaped, acidophilic secretory granules."
+      },
+      {
+       "id": "cz-v2-sh1-6-2",
+       "t": "Paneth cell의 granule은 H-E에서 [[붉게]] 염색된다 (acidophilic)",
+       "k": 1,
+       "n": "王王王 강조점 #1."
+      },
+      {
+       "id": "cz-v2-sh1-6-3",
+       "t": "Paneth cell의 분비물: [[lysozyme]], TNFα, defensin α·β, phospholipase A2",
+       "k": 1,
+       "n": "王王王 강조점 #1. lysozyme은 peptidoglycan 분해."
+      },
+      {
+       "id": "cz-v2-sh1-6-4",
+       "t": "Paneth cell은 antimicrobial factor를 분비해 세균을 죽이고 [[microbiome]]의 균형을 유지한다",
+       "k": 1,
+       "n": "王王王 강조점 #1."
+      },
+      {
+       "id": "cz-v2-sh1-6-5",
+       "t": "Paneth cell에 결함이 있으면 Crohn's disease, ulcerative colitis 같은 [[IBD]]가 잘 생긴다",
+       "k": 1,
+       "n": "王王王 강조점 #1."
+      },
+      {
+       "id": "cz-v2-sh1-6-6",
+       "t": "Paneth cell은 [[small intestine]]에 주로 있고 large intestine에는 없다",
+       "k": 1,
+       "n": "王王王 강조점 #1. appendix에 소량."
+      },
+      {
+       "id": "cz-v2-sh1-6-7",
+       "t": "Paneth cell은 stem cell에 [[Wnt]] 신호를 paracrine으로 줘서 줄기세포 유지를 돕는다",
+       "k": 1,
+       "n": "王王王 강조점 #1. 수명 4주."
+      },
+      {
+       "id": "cz-v2-sh1-6-8",
+       "t": "anal canal 위 1/3(colorectal zone)의 상피는 [[simple columnar]]",
+       "k": 1,
+       "n": "王王王 강조점 #2. 교수님: CRZ → ATZ에서 simple → stratified 강조!"
+      },
+      {
+       "id": "cz-v2-sh1-6-9",
+       "t": "anal canal 가운데 1/3(anal transitional zone)의 상피는 [[stratified columnar/cuboidal]]",
+       "k": 1,
+       "n": "王王王 강조점 #2. CRZ → ATZ에서 simple → stratified."
+      },
+      {
+       "id": "cz-v2-sh1-6-10",
+       "t": "anal canal 아래 1/3(squamous zone)의 상피는 [[stratified squamous]]",
+       "k": 1,
+       "n": "王王王 강조점 #2."
+      }
+     ]
+    },
+    {
+     "id": "7",
+     "name": "7. 복막공간과 복막의 구조_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-7-1",
+       "t": "소화관 발생의 3가지 목표: 길이 생장, [[분화 (differentiation)]], [[고정]]",
+       "k": 1,
+       "n": "王王. 교수님: 길이 생장이 제일 중요한 파트."
+      },
+      {
+       "id": "cz-v2-sh1-7-2",
+       "t": "소화관 발생 목표 중 교수님이 제일 중요하다고 한 것은 [[길이 생장]]",
+       "k": 1,
+       "n": "王王. 길게 → looping → 배꼽 바깥 → 회전 → 다시 복강 안."
+      },
+      {
+       "id": "cz-v2-sh1-7-3",
+       "t": "길고 무거운 장을 벽에 붙여 고정하는 구조는 [[mesentery]]",
+       "k": 1,
+       "n": "王王. 교수님 비유: 소장 여러 개를 봉투로 싸서 위에서 한 번에 묶은 것. root는 등쪽, 혈관도 같이 묶여 들어감."
+      },
+      {
+       "id": "cz-v2-sh1-7-4",
+       "t": "stomach → duodenum이 꺾이는 곳에 손가락을 넣으면 들어가는 입구는 [[omental foramen]]",
+       "k": 1,
+       "n": "王王. 찾는 순서: liver 위로 젖히기 → stomach 반대로 젖히기 → lesser omentum 확인 → 손가락. 경계는 세세히 외우기보다 이미지로."
+      },
+      {
+       "id": "cz-v2-sh1-7-5",
+       "t": "누워 있을 때 fluid가 제일 잘 고이는 곳은 [[hepatorenal recess (Morison pouch)]]",
+       "k": 1,
+       "n": "王王. liver와 right kidney 사이."
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "name": "8. 위와 복강동맥의 구조_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-8-1",
+       "t": "stomach와 spleen을 잇는 인대는 [[gastrosplenic ligament]]",
+       "k": 1,
+       "n": "王. 교수님이 복막 인대 전체를 강조."
+      },
+      {
+       "id": "cz-v2-sh1-8-2",
+       "t": "stomach에 혈액을 사실상 다 주는 동맥은 [[celiac trunk]]",
+       "k": 1,
+       "n": "王. 위의 superior·inferior 모두 celiac trunk 분지가 공급 (필족 5p)."
+      },
+      {
+       "id": "cz-v2-sh1-8-3",
+       "t": "celiac trunk에서 나와 liver 쪽으로 가는 분지는 [[common hepatic a.]]",
+       "k": 1,
+       "n": "王 celiac trunk의 세 분지가 매우 중요."
+      },
+      {
+       "id": "cz-v2-sh1-8-4",
+       "t": "celiac trunk에서 나와 spleen으로 가는 분지는 [[splenic a.]]",
+       "k": 1,
+       "n": "王 celiac trunk의 세 분지."
+      },
+      {
+       "id": "cz-v2-sh1-8-5",
+       "t": "celiac trunk에서 나와 위로 가는 분지는 [[left gastric a.]]",
+       "k": 1,
+       "n": "王 celiac trunk의 세 분지."
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "name": "9. 샘창자, 지라, 이자의 구조_임진홍",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-9-1",
+       "t": "샘창자(duodenum)와 이자(pancreas)는 [[이차 복막뒤장기]]",
+       "k": 1,
+       "n": "王. 발생 때 이자가 회전하며 뒤배벽에 붙어서 '이차'."
+      },
+      {
+       "id": "cz-v2-sh1-9-2",
+       "t": "지라(spleen)는 [[복막안장기]]",
+       "k": 1,
+       "n": "王. 회전하지 않고 위 옆에서 따라가 인대로 일부만 뒤배벽에 붙음."
+      },
+      {
+       "id": "cz-v2-sh1-9-3",
+       "t": "샘창자의 길이는 약 [[25 cm]]",
+       "k": 1,
+       "n": "王. 교수님: 이름 때문에 12 cm로 생각하기 쉬운데 25 cm (두 번 정도 언급)."
+      },
+      {
+       "id": "cz-v2-sh1-9-4",
+       "t": "샘창자는 [[복강동맥 (celiac trunk)]]과 [[SMA]]가 함께 혈액을 공급한다",
+       "k": 1,
+       "n": "王. 앞창자(큰샘창자유두 근위부)와 중간창자(원위부)의 경계라서."
+      },
+      {
+       "id": "cz-v2-sh1-9-5",
+       "t": "샘창자에서 복막 안에 있어 움직일 수 있는 부분은 위부분 처음 약 [[2 cm (팽대, duodenal cap)]]",
+       "k": 1,
+       "n": "王. 나머지는 이차 복막뒤장기."
+      },
+      {
+       "id": "cz-v2-sh1-9-6",
+       "t": "샘창자 수평부분(horizontal)은 [[SMA와 대동맥 사이]]에 끼어 있다",
+       "k": 1,
+       "n": "王王. 높이 L3. 뒤: IVC·대동맥, 앞: SMA·SMV."
+      },
+      {
+       "id": "cz-v2-sh1-9-7",
+       "t": "온쓸개관 + 이자관이 만나 [[간이자팽대 (Vater)]]를 이루고, 이를 [[간이자팽대조임근 (Oddi)]]이 조절한다",
+       "k": 1,
+       "n": "王. 큰샘창자유두로 열림."
+      },
+      {
+       "id": "cz-v2-sh1-9-8",
+       "t": "교수님: 큰샘창자유두는 내림부분 '중간'이 아니라 [[수평부분으로 넘어가는 아래쪽]]에 있는 경우가 많다",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-9",
+       "t": "이자머리와 샘창자를 함께 공급하는 앞뒤 두 고리는 [[이자샘창자 동맥활]]",
+       "k": 1,
+       "n": "王. 위쪽은 GDA, 아래쪽은 SMA에서."
+      },
+      {
+       "id": "cz-v2-sh1-9-10",
+       "t": "이자머리와 샘창자는 혈관을 공유해서 [[하나의 단위]]로 절제한다 (이자샘창자절제술)",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-11",
+       "t": "샘창자 뒤벽 궤양에서 대량 출혈을 일으키는 동맥은 [[위샘창자동맥 (GDA)]]",
+       "k": 1,
+       "n": "王. 확인문제 Q1. GDA가 위부분 뒤를 지남."
+      },
+      {
+       "id": "cz-v2-sh1-9-12",
+       "t": "SMA와 대동맥 사이에 끼여 눌릴 수 있는 샘창자 부분은 [[수평부분]]",
+       "k": 1,
+       "n": "王. 확인문제 Q2. 급격한 체중감소 후 SMA 증후군."
+      },
+      {
+       "id": "cz-v2-sh1-9-13",
+       "t": "지라는 [[9~11번]] 갈비뼈 높이에 있다",
+       "k": 1,
+       "n": "王. 긴축은 10번 갈비뼈를 따름. 약 150–200 g."
+      },
+      {
+       "id": "cz-v2-sh1-9-14",
+       "t": "지라문에는 [[이자꼬리]]가 닿는다",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-15",
+       "t": "지라혈관과 이자꼬리가 함께 들어 있는 인대는 [[지라콩팥인대 (splenorenal lig.)]]",
+       "k": 1,
+       "n": "王. 확인문제 Q3: 지라절제 시 이자꼬리가 손상될 수 있는 인대."
+      },
+      {
+       "id": "cz-v2-sh1-9-16",
+       "t": "지라는 혈소판의 약 [[1/3]]을 저장한다",
+       "k": 1,
+       "n": "王. 단핵구도 저장, 늙은 혈소판 분해."
+      },
+      {
+       "id": "cz-v2-sh1-9-17",
+       "t": "지라동맥은 복강동맥의 [[가장 큰 가지]]이고 이자 위모서리를 따라 구불구불 간다",
+       "k": 1,
+       "n": "王. 분절성 혈관."
+      },
+      {
+       "id": "cz-v2-sh1-9-18",
+       "t": "지라문에서 2~3개 분절로 갈라지는 지라동맥 가지는 [[종말동맥]]",
+       "k": 1,
+       "n": "王. 실제로는 짧은위혈관·그물막 혈관으로 양쪽에서 혈액을 받음."
+      },
+      {
+       "id": "cz-v2-sh1-9-19",
+       "t": "지라정맥은 [[이자목 뒤]]에서 SMV와 합류해 간문맥을 만든다",
+       "k": 1,
+       "n": "王. 교수님: 지라정맥과 SMV가 말 머리처럼 합쳐지고 IMV는 말 뒷다리처럼."
+      },
+      {
+       "id": "cz-v2-sh1-9-20",
+       "t": "지라 손상으로 가로막이 자극돼 왼어깨에 연관통이 생기는 것은 [[Kehr 징후]]",
+       "k": 1,
+       "n": "王. 쓸개 수술 후 오른어깨 통증과 같은 원리."
+      },
+      {
+       "id": "cz-v2-sh1-9-21",
+       "t": "덧지라(accessory spleen)는 약 [[10%]]에서 있다",
+       "k": 1,
+       "n": "王. 주로 지라문, 위지라인대 부근. 이자 종괴로 오인되기도 함."
+      },
+      {
+       "id": "cz-v2-sh1-9-22",
+       "t": "지라절제 후 생길 수 있는 치명적 감염은 [[OPSI (overwhelming post-splenectomy infection)]]",
+       "k": 1,
+       "n": "王. 폐렴사슬알균, 수막알균, Hib 백신 접종."
+      },
+      {
+       "id": "cz-v2-sh1-9-23",
+       "t": "이자의 갈고리돌기(uncinate process)는 [[SMV와 SMA]] 뒤로 들어간다",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-24",
+       "t": "이자목은 SMV와 [[지라정맥]]이 만나 간문맥을 이루는 곳의 바로 앞",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-25",
+       "t": "이자꼬리는 [[지라콩팥인대]] 안에서 지라문에 닿는다",
+       "k": 1,
+       "n": "王. 이자에서 유일하게 비교적 움직임."
+      },
+      {
+       "id": "cz-v2-sh1-9-26",
+       "t": "이자관(Wirsung)은 온쓸개관과 만나 [[간이자팽대 (Vater)]]를 거쳐 큰샘창자유두로 열린다",
+       "k": 1,
+       "n": "王. 꼬리 → 머리로 주행."
+      },
+      {
+       "id": "cz-v2-sh1-9-27",
+       "t": "이자의 목, 몸통, 꼬리는 [[지라동맥의 이자가지]]가 공급한다",
+       "k": 1,
+       "n": "王. 등쪽이자동맥 → 아래이자동맥, 큰이자동맥, 꼬리이자동맥."
+      },
+      {
+       "id": "cz-v2-sh1-9-28",
+       "t": "이자머리암은 온쓸개관을 막아 [[무통성 황달]]과 만져지는 쓸개를 만든다",
+       "k": 1,
+       "n": "王. 만져지는 쓸개 = Courvoisier 징후. 치료는 Whipple."
+      },
+      {
+       "id": "cz-v2-sh1-9-29",
+       "t": "이자머리암에서 만져지는 쓸개는 [[Courvoisier 징후]]",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-9-30",
+       "t": "급성 이자염의 가장 흔한 원인은 [[쓸개돌이 간이자팽대를 막는 것]]",
+       "k": 1,
+       "n": "王. 그다음이 알코올. 명치 통증이 등으로 방사."
+      },
+      {
+       "id": "cz-v2-sh1-9-31",
+       "t": "림프는 그 장기를 공급하는 [[동맥]]을 거슬러 올라가 대동맥 앞 림프절로 모인다",
+       "k": 1,
+       "n": "王. 교수님: 이게 제일 중요할 것 같아요."
+      },
+      {
+       "id": "cz-v2-sh1-9-32",
+       "t": "이자 몸통과 꼬리의 림프가 1차로 모이는 림프절은 [[이자지라림프절]]",
+       "k": 1,
+       "n": "王. 확인문제 Q4. 지라동맥을 따라 → 복강림프절."
+      }
+     ]
+    },
+    {
+     "id": "10",
+     "name": "10. 창자와 창자 간막 동맥_장경구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-10-1",
+       "t": "SMA에 의해 십이지장이 눌리는 병은 [[SMA syndrome]]",
+       "k": 1,
+       "n": "王王王 강조점 #1. 여성에서 호발, 흔하지 않음."
+      },
+      {
+       "id": "cz-v2-sh1-10-2",
+       "t": "SMA syndrome의 원인은 [[급격한 체중 감소]]",
+       "k": 1,
+       "n": "王王王 강조점 #1. mesentery 지방이 줄어 혈관 각도가 지나치게 작아짐."
+      },
+      {
+       "id": "cz-v2-sh1-10-3",
+       "t": "SMA syndrome에서 눌리는 것은 SMA와 aorta 사이의 [[십이지장 제3부]]",
+       "k": 1,
+       "n": "王王王 강조점 #1."
+      },
+      {
+       "id": "cz-v2-sh1-10-4",
+       "t": "SMA syndrome의 1차 치료는 식이·영양 관리로 [[체중 회복]]",
+       "k": 1,
+       "n": "王王王 강조점 #1. 식이로 안 되면 수술로 혈관 위치 옮기기."
+      },
+      {
+       "id": "cz-v2-sh1-10-5",
+       "t": "이자 머리 위쪽에 혈액을 주는 동맥은 [[celiac trunk]]",
+       "k": 1,
+       "n": "王王王 강조점 #2. 아래쪽은 SMA."
+      },
+      {
+       "id": "cz-v2-sh1-10-6",
+       "t": "이자 머리 아래쪽에 혈액을 주는 동맥은 [[SMA]]",
+       "k": 1,
+       "n": "王王王 강조점 #2. 위쪽은 celiac trunk."
+      },
+      {
+       "id": "cz-v2-sh1-10-7",
+       "t": "이자 몸통과 꼬리는 [[splenic a.]] → dorsal pancreatic a.가 공급한다",
+       "k": 1,
+       "n": "王王王 강조점 #2. 이후 anterior/posterior pancreaticoduodenal a.로 합류."
+      },
+      {
+       "id": "cz-v2-sh1-10-8",
+       "t": "소장의 proximal 2/5는 [[jejunum]], distal 3/5는 [[ileum]]",
+       "k": 1,
+       "n": "王王 강조점 #3."
+      },
+      {
+       "id": "cz-v2-sh1-10-9",
+       "t": "jejunum은 주로 [[좌상복부]], ileum은 주로 [[우하복부와 골반]]에 있다",
+       "k": 1,
+       "n": "王王 강조점 #3."
+      },
+      {
+       "id": "cz-v2-sh1-10-10",
+       "t": "장벽이 두껍고 lumen이 큰 쪽은 [[jejunum]]",
+       "k": 1,
+       "n": "王王 강조점 #3. ileum은 얇은 벽 + 작은 lumen."
+      },
+      {
+       "id": "cz-v2-sh1-10-11",
+       "t": "circular fold가 많은 쪽은 [[jejunum]] (영양분 흡수 활발)",
+       "k": 1,
+       "n": "王王 강조점 #3."
+      },
+      {
+       "id": "cz-v2-sh1-10-12",
+       "t": "lymphoid tissue가 더 많은 쪽은 [[ileum]] (소장 하부 microbiome 발달)",
+       "k": 1,
+       "n": "王王 강조점 #3."
+      },
+      {
+       "id": "cz-v2-sh1-10-13",
+       "t": "동맥궁이 적고 직동맥이 길고 굵은 쪽은 [[jejunum]]",
+       "k": 1,
+       "n": "王王 강조점 #3. ileum은 동맥궁 많고 직동맥 짧고 가늚."
+      },
+      {
+       "id": "cz-v2-sh1-10-14",
+       "t": "bile duct와 pancreatic duct가 합쳐져 팽대된 부분은 [[hepatopancreatic ampulla]]",
+       "k": 1,
+       "n": "王王 semi 강조점. 수업 중 '잘 기억해 두라'고 함."
+      },
+      {
+       "id": "cz-v2-sh1-10-15",
+       "t": "hepatopancreatic ampulla가 십이지장으로 열리는 구멍은 [[major duodenal papilla]]",
+       "k": 1,
+       "n": "王王 semi 강조점."
+      },
+      {
+       "id": "cz-v2-sh1-10-16",
+       "t": "dorsal pancreas에서 유래한 작은 관이 열리고, 있는지 없는지 개인차가 있는 것은 [[minor duodenal papilla]]",
+       "k": 1,
+       "n": "王王 semi 강조점."
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "name": "11. 소화기질환 환자의 접근과 진단_이용찬",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-11-1",
+       "t": "소화성 궤양은 [[십이지장 궤양]]에서 [[위궤양]] 쪽으로 바뀌었다",
+       "k": 1,
+       "n": "王王. 교수님: 거꾸로(위궤양 → 십이지장 궤양) 내면 틀린 지문."
+      },
+      {
+       "id": "cz-v2-sh1-11-2",
+       "t": "담석은 [[색소 담석]]에서 [[콜레스테롤 담석]] 쪽으로 바뀌었다",
+       "k": 1,
+       "n": "王王. 거꾸로 내면 틀린 지문."
+      },
+      {
+       "id": "cz-v2-sh1-11-3",
+       "t": "역류성 식도염은 [[증가]]하고 있다",
+       "k": 1,
+       "n": "王王. '줄고 있다'로 내면 틀린 지문."
+      },
+      {
+       "id": "cz-v2-sh1-11-4",
+       "t": "대장폴립과 [[대장암]]은 증가하고 있다",
+       "k": 1,
+       "n": "王王."
+      },
+      {
+       "id": "cz-v2-sh1-11-5",
+       "t": "염증성 장 질환은 [[증가]], 장결핵은 [[감소]]",
+       "k": 1,
+       "n": "王王. 거꾸로 내면 틀린 지문."
+      },
+      {
+       "id": "cz-v2-sh1-11-6",
+       "t": "위장관 천공 때 right 횡격막 아래 초승달 모양 까만 음영은 [[air meniscus sign]]",
+       "k": 1,
+       "n": "王王. perforated viscus."
+      },
+      {
+       "id": "cz-v2-sh1-11-7",
+       "t": "복부 이외에서 복통을 일으키는 원인으로 교수님이 강조한 두 장기 질환은 [[심장 질환]]과 [[폐 질환]]",
+       "k": 1,
+       "n": "王王 교수님 강조 두 번째. 심근경색, 심내막염 / 색전증, 기흉."
+      },
+      {
+       "id": "cz-v2-sh1-11-8",
+       "t": "천공된 충수돌기염(perforated appendicitis)을 의심할 때 보는 징후는 [[Rovsing's sign]]과 [[rebound tenderness]]",
+       "k": 1,
+       "n": "王 교수님: 가끔 시험에 냄."
+      },
+      {
+       "id": "cz-v2-sh1-11-9",
+       "t": "복부를 누르며 숨을 들이쉬게 했을 때 RUQ가 아픈 것은 [[Murphy sign]]",
+       "k": 1,
+       "n": "王王. 담낭염 의심. 연결 문제로 나옴."
+      },
+      {
+       "id": "cz-v2-sh1-11-10",
+       "t": "Murphy sign이 의심하는 질환은 [[담낭염]]",
+       "k": 1,
+       "n": "王王. 숨을 들이쉬면 횡격막이 내려가 염증 있는 쓸개가 닿아 아픔."
+      },
+      {
+       "id": "cz-v2-sh1-11-11",
+       "t": "1980년대 이후에 개발된 소화기 진단검사 방법은 [[capsule endoscopy]]",
+       "k": 1,
+       "n": "王王 만년 문족 (끕쁀뺘 2번). UGI, Ba enema, EGD, colonoscopy는 그 전부터."
+      },
+      {
+       "id": "cz-v2-sh1-11-12",
+       "t": "혈청 아밀라제 증가: [[췌장염]], [[궤양 천공]], 교액성 장폐쇄, 급성 담낭염",
+       "k": 1,
+       "n": "王王 출제 예고. 교수님: 이것만 좀 암기, 줄로 연결."
+      },
+      {
+       "id": "cz-v2-sh1-11-13",
+       "t": "혈청 아밀라제 증가: 췌장염, 궤양 천공, [[교액성 장폐쇄]], [[급성 담낭염]]",
+       "k": 1,
+       "n": "王王 출제 예고. 교수님: 이것만 좀 암기."
+      }
+     ]
+    },
+    {
+     "id": "12",
+     "name": "12. 소화기 약리학 총론_이민구",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-12-1",
+       "t": "위산 분비 수용체 중 H2만 [[Gs]], 나머지(CCK2, M3, M1)는 [[Gq]]",
+       "k": 1,
+       "n": "王王王王 위산 분비 기전."
+      },
+      {
+       "id": "cz-v2-sh1-12-2",
+       "t": "H2 수용체 자극 → [[cAMP]] 증가 → PKA 활성",
+       "k": 1,
+       "n": "王王王王. CCK2·M3는 Ca2+ 증가, PKC 활성."
+      },
+      {
+       "id": "cz-v2-sh1-12-3",
+       "t": "gastrin 수용체(CCK2)와 M3 수용체 자극 → [[Ca2+]] 증가 → PKC 활성",
+       "k": 1,
+       "n": "王王王王."
+      },
+      {
+       "id": "cz-v2-sh1-12-4",
+       "t": "ACh 수용체는 ECL cell에서는 [[M1]], parietal cell에서는 [[M3]]",
+       "k": 1,
+       "n": "王王王王."
+      },
+      {
+       "id": "cz-v2-sh1-12-5",
+       "t": "위산 분비의 최종 단계는 [[H+/K+ ATPase (proton pump)]] 활성",
+       "k": 1,
+       "n": "王王王王. pH 7 → pH 1."
+      },
+      {
+       "id": "cz-v2-sh1-12-6",
+       "t": "PGE2·PGI2는 [[EP3]] 수용체(Gi)로 cAMP를 낮춰 위산 분비를 억제하고 점액 분비를 촉진한다",
+       "k": 1,
+       "n": "王王王王."
+      },
+      {
+       "id": "cz-v2-sh1-12-7",
+       "t": "gastrin 길항제는 [[proglumide]]",
+       "k": 0,
+       "n": "CCK2 수용체 봉쇄. 효과 별로 없고 부작용으로 거의 사용 X."
+      },
+      {
+       "id": "cz-v2-sh1-12-8",
+       "t": "M1 수용체를 막는 anticholinergic은 [[pirenzepine]]",
+       "k": 0,
+       "n": "telenzepine도. 주로 antispasmodic(위경련 완화)으로."
+      },
+      {
+       "id": "cz-v2-sh1-12-9",
+       "t": "H2 수용체 봉쇄제는 parietal cell의 H2(Gs)를 막아 [[cAMP]]를 낮춘다",
+       "k": 1,
+       "n": "王. 기초(야간) 분비 억제가 뚜렷, –tidine."
+      },
+      {
+       "id": "cz-v2-sh1-12-10",
+       "t": "CYP450을 억제해 약물상호작용(DDI)이 큰 H2 blocker는 [[cimetidine]]",
+       "k": 1,
+       "n": "王. warfarin(CYP2C9) 대사 억제 → 출혈 위험."
+      },
+      {
+       "id": "cz-v2-sh1-12-11",
+       "t": "PPI는 H+/K+ pump의 [[–SH기]]와 공유결합해 [[비가역적]]으로 pump를 억제한다",
+       "k": 1,
+       "n": "王. omeprazole, lansoprazole, esomeprazole (–prazole)."
+      },
+      {
+       "id": "cz-v2-sh1-12-12",
+       "t": "pump의 potassium binding site에 가역적으로 결합하는 약 계열은 [[P-CAB (APA, 가역적 PPI)]]",
+       "k": 0,
+       "n": "revaprazan, tegoprazan."
+      },
+      {
+       "id": "cz-v2-sh1-12-13",
+       "t": "산 환경(pH 4.0 이하)에서 젤이 되어 ulcer crater를 덮는 약은 [[sucralfate]]",
+       "k": 0,
+       "n": "산중화 작용 없음, prostaglandin 합성 증가."
+      },
+      {
+       "id": "cz-v2-sh1-12-14",
+       "t": "H. pylori colony 제거 효과가 있어 사제요법에 들어가는 점막 보호제는 [[bismuth 제제]]",
+       "k": 1,
+       "n": "王. 산성 환경에서 침전층. 산중화 작용 없음."
+      },
+      {
+       "id": "cz-v2-sh1-12-15",
+       "t": "NSAIDs로 인한 궤양에 쓰는 PGE1 analogue는 [[misoprostol]]",
+       "k": 0,
+       "n": "EP3 효현 → 위산 억제 + mucus·bicarbonate 증가."
+      },
+      {
+       "id": "cz-v2-sh1-12-16",
+       "t": "H. pylori 일차 삼제요법: PPI + [[amoxicillin]] + [[clarithromycin]]",
+       "k": 1,
+       "n": "王王王."
+      },
+      {
+       "id": "cz-v2-sh1-12-17",
+       "t": "H. pylori 이차 사제요법: PPI + [[metronidazole]] + tetracycline + [[bismuth]]",
+       "k": 1,
+       "n": "王王王. clarithromycin 내성 의심 때."
+      },
+      {
+       "id": "cz-v2-sh1-12-18",
+       "t": "장운동을 촉진하는 수용체 신호 두 가지는 [[5-HT4R]] (cholinergic interneuron)와 [[M3R]] (smooth muscle)",
+       "k": 1,
+       "n": "王王. 활성화하면 촉진."
+      },
+      {
+       "id": "cz-v2-sh1-12-19",
+       "t": "장운동을 억제하는 신호라서 막으면 장운동이 촉진되는 수용체는 [[D2R]]",
+       "k": 1,
+       "n": "王王. myenteric plexus의 dopamine 수용체."
+      },
+      {
+       "id": "cz-v2-sh1-12-20",
+       "t": "BBB 통과가 약해 EPS가 적은 D2 봉쇄제는 [[domperidone]]",
+       "k": 0,
+       "n": "미국에선 승인 X, 우리나라에선 많이 처방."
+      },
+      {
+       "id": "cz-v2-sh1-12-21",
+       "t": "D2R 봉쇄 + 5-HT4R 효현을 모두 가지고 BBB를 통과해 EPS를 일으키는 약은 [[metoclopramide]]",
+       "k": 0,
+       "n": "구토 억제 효과도."
+      },
+      {
+       "id": "cz-v2-sh1-12-22",
+       "t": "현재 유일하게 승인된 5-HT4 효현제는 [[prucalopride]]",
+       "k": 0,
+       "n": "만성 특발성 변비."
+      },
+      {
+       "id": "cz-v2-sh1-12-23",
+       "t": "methyl cellulose, psyllium 같은 부피 형성 완하제의 금기는 [[장폐색]]",
+       "k": 1,
+       "n": "王. fiber가 물 흡수 → 대변 부피 증가."
+      },
+      {
+       "id": "cz-v2-sh1-12-24",
+       "t": "lactulose는 lactic acid로 H+를 공급해 암모니아를 [[암모늄 이온]]으로 만들어 [[간성 혼수]]를 치료한다",
+       "k": 1,
+       "n": "王 삼투성. 완하제로는 잘 안 씀."
+      },
+      {
+       "id": "cz-v2-sh1-12-25",
+       "t": "lubiprostone은 [[EP4]] 수용체(Gs) 효현 → cAMP ↑ → CFTR, ClC-2를 열어 Cl- 분비",
+       "k": 0,
+       "n": "Cl-과 함께 Na+, 물이 나감. 변비형 IBS."
+      },
+      {
+       "id": "cz-v2-sh1-12-26",
+       "t": "linaclotide는 [[guanylyl cyclase (GC-C)]]를 자극해 cGMP를 올려 분비를 촉진한다",
+       "k": 0,
+       "n": "변비형 과민성 대장."
+      },
+      {
+       "id": "cz-v2-sh1-12-27",
+       "t": "loperamide는 myenteric plexus의 [[μ 수용체]]로 장운동을 억제한다 (CNS 통과 못함)",
+       "k": 0,
+       "n": "δ 수용체(Meissner plexus)로 분비 억제."
+      },
+      {
+       "id": "cz-v2-sh1-12-28",
+       "t": "4th ventricle 아래에 있고 BBB가 덜 발달해 항암제 같은 화학물질에 자극받는 곳은 [[CTZ]]",
+       "k": 1,
+       "n": "王. 구토 중추는 medulla oblongata."
+      },
+      {
+       "id": "cz-v2-sh1-12-29",
+       "t": "구토 경로의 공통 수용체는 [[5-HT3]]",
+       "k": 0,
+       "n": "그림 문제 A = CTZ, B = 위장관."
+      },
+      {
+       "id": "cz-v2-sh1-12-30",
+       "t": "항암제 구토(CINV)에 쓰는 5-HT3 길항제는 [[ondansetron]] (–setron)",
+       "k": 1,
+       "n": "王. 5-HT4가 아님. 멀미에는 X."
+      },
+      {
+       "id": "cz-v2-sh1-12-31",
+       "t": "고속핵의 NK1을 막아 CINV에 쓰는 약은 [[aprepitant]]",
+       "k": 1,
+       "n": "王. 요새 내과에서 많이 씀."
+      },
+      {
+       "id": "cz-v2-sh1-12-32",
+       "t": "다른 약에 듣지 않는 CINV에 쓰는 CB1 효현제(유일한 agonist)는 [[dronabinol]]",
+       "k": 0,
+       "n": "Δ9 THC. 다른 항구토제는 다 antagonist."
+      },
+      {
+       "id": "cz-v2-sh1-12-33",
+       "t": "IL-12/IL-23을 막는 IBD 치료제는 [[ustekinumab]]",
+       "k": 1,
+       "n": "王王. 그림 A = 수지상세포."
+      },
+      {
+       "id": "cz-v2-sh1-12-34",
+       "t": "TNFα를 막는 IBD 항체는 [[infliximab]], adalimumab",
+       "k": 1,
+       "n": "王王. 그림 B = 대식세포. etanercept는 IBD에 효과 없음."
+      },
+      {
+       "id": "cz-v2-sh1-12-35",
+       "t": "integrin α4β7을 막아 장에만 작용하는 항체는 [[vedolizumab]]",
+       "k": 1,
+       "n": "王王. 그림 C = 혈관내피 통과 백혈구."
+      },
+      {
+       "id": "cz-v2-sh1-12-36",
+       "t": "경도-중등도 IBD 1차 치료제(5-ASA)는 [[mesalamine]]",
+       "k": 1,
+       "n": "王. 전구체 sulfasalazine(1세대) → olsalazine, balsalazine(2세대)."
+      },
+      {
+       "id": "cz-v2-sh1-12-37",
+       "t": "IBD 면역억제제 azathioprine, 6-MP는 [[퓨린계 DNA 합성]]을 억제한다",
+       "k": 1,
+       "n": "王. 부작용: 골수 억제(백혈구·혈소판 감소)."
+      },
+      {
+       "id": "cz-v2-sh1-12-38",
+       "t": "동양인에서 azathioprine·6-MP 독성을 예측하는 유전자 검사는 [[NUDT15]]",
+       "k": 1,
+       "n": "王. TPMT가 아님. 돌연변이면 normal dose도 toxic."
+      }
+     ]
+    },
+    {
+     "id": "13",
+     "name": "13. 뒤배벽과 복막뒤공간의 구조(1)_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-13-1",
+       "t": "위 lesser curvature에서 anastomosis하는 두 동맥은 [[right gastric a.]]와 [[left gastric a.]]",
+       "k": 1,
+       "n": "王 anastomosis. lesser curvature = gastric a."
+      },
+      {
+       "id": "cz-v2-sh1-13-2",
+       "t": "위 greater curvature에서 anastomosis하는 두 동맥은 [[right gastroepiploic a.]]와 [[left gastroepiploic a.]]",
+       "k": 1,
+       "n": "王. gastroepiploic a. = gastro-omental a. right는 gastroduodenal a., left는 splenic a.에서."
+      },
+      {
+       "id": "cz-v2-sh1-13-3",
+       "t": "duodenum·pancreas에서 celiac trunk와 SMA를 잇는 anastomosis는 superior와 [[inferior pancreaticoduodenal a.]] 사이",
+       "k": 1,
+       "n": "王. superior는 gastroduodenal a., inferior는 SMA에서."
+      },
+      {
+       "id": "cz-v2-sh1-13-4",
+       "t": "end-artery라서 출혈이 치명적인 두 동맥은 [[gastroduodenal a.]]와 [[splenic a.]]",
+       "k": 0,
+       "n": "spleen은 손상 시 splenectomy(전절제)가 유리."
+      },
+      {
+       "id": "cz-v2-sh1-13-5",
+       "t": "hepatic portal v.는 [[splenic v.]]와 [[SMV]]가 합쳐져 만들어진다",
+       "k": 1,
+       "n": "王 venous drainage of stomach. IMV는 splenic v.로 들어감."
+      },
+      {
+       "id": "cz-v2-sh1-13-6",
+       "t": "gallbladder 병변의 referred pain은 [[어깨]]에 생긴다",
+       "k": 1,
+       "n": "王 referred pain."
+      },
+      {
+       "id": "cz-v2-sh1-13-7",
+       "t": "primary retroperitoneal organ은 kidney, [[suprarenal gland]], ureter",
+       "k": 0,
+       "n": "secondary: pancreas(tail 제외), duodenum, ascending·descending colon, rectum."
+      },
+      {
+       "id": "cz-v2-sh1-13-8",
+       "t": "뒤배벽 근육 4가지: psoas major, psoas minor, quadratus lumborum, [[iliacus]]",
+       "k": 1,
+       "n": "王 posterior wall muscle. 위치와 이름 기억하기."
+      },
+      {
+       "id": "cz-v2-sh1-13-9",
+       "t": "abdominal aorta 가지 순서: inferior phrenic a. → [[celiac trunk]] → SMA",
+       "k": 1,
+       "n": "王 가장 중요하다고 강조."
+      },
+      {
+       "id": "cz-v2-sh1-13-10",
+       "t": "abdominal aorta 가지 순서: SMA → [[renal a. / suprarenal a.]] → gonadal a.",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-13-11",
+       "t": "abdominal aorta 가지 순서: gonadal a. → [[IMA]] → median sacral a.",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-13-12",
+       "t": "IVC가 abdominal aorta의 오른쪽에 있어서 [[left renal v.]]가 더 길다",
+       "k": 1,
+       "n": "王."
+      }
+     ]
+    },
+    {
+     "id": "14",
+     "name": "14. 뒤배벽과 복막뒤공간의 구조(2)_오지원",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-14-1",
+       "t": "renal colic 통증이 전달되는 길은 [[aorticorenal]] ganglion·plexus",
+       "k": 1,
+       "n": "王王. 오지원 25 객36."
+      },
+      {
+       "id": "cz-v2-sh1-14-2",
+       "t": "psoas major lateral border에서 가장 위에 나오는 신경은 [[iliohypogastric n.]]",
+       "k": 1,
+       "n": "王王王. 위→아래: iliohypogastric → ilioinguinal → lateral femoral cutaneous → femoral."
+      },
+      {
+       "id": "cz-v2-sh1-14-3",
+       "t": "psoas major lateral border에서 가장 아래에 나오는 신경은 [[femoral n.]]",
+       "k": 1,
+       "n": "王王王. 그 위가 lateral femoral cutaneous n."
+      },
+      {
+       "id": "cz-v2-sh1-14-4",
+       "t": "psoas major를 뚫고 anterior surface로 나오는 예외 신경은 [[genitofemoral n.]]",
+       "k": 1,
+       "n": "王王王. 오지원 24 주6: 뒤배벽 신경 그림에서 이름 쓰기."
+      },
+      {
+       "id": "cz-v2-sh1-14-5",
+       "t": "renal capsule과 renal fascia 사이의 지방은 [[perirenal fat (perinephric fat)]]",
+       "k": 1,
+       "n": "王王王. 22 객73, 21 주12, 20 객1, 13 주14·15."
+      },
+      {
+       "id": "cz-v2-sh1-14-6",
+       "t": "renal fascia 바깥의 지방은 [[pararenal fat (paranephric fat)]]",
+       "k": 1,
+       "n": "王王王."
+      },
+      {
+       "id": "cz-v2-sh1-14-7",
+       "t": "cortex가 pyramid 사이로 파고든 부분은 [[renal column]]",
+       "k": 1,
+       "n": "王王王 R-type 단골 (p.13)."
+      },
+      {
+       "id": "cz-v2-sh1-14-8",
+       "t": "pyramid의 꼭짓점으로 소변이 minor calyx로 처음 나가는 곳은 [[renal papilla]]",
+       "k": 1,
+       "n": "王王王. 오지원 25 객32."
+      },
+      {
+       "id": "cz-v2-sh1-14-9",
+       "t": "소변 경로: renal papilla → [[minor calyx]] → major calyx → [[renal pelvis]] → ureter",
+       "k": 1,
+       "n": "王王王. 지금까지 답으로 나온 것: renal column, pyramid, papilla, minor calyx, renal pelvis."
+      },
+      {
+       "id": "cz-v2-sh1-14-10",
+       "t": "hilum에서 앞 → 뒤 순서: [[renal vein]] → renal artery → [[renal pelvis]]",
+       "k": 1,
+       "n": "王王王. 19 객12, 13 주13."
+      },
+      {
+       "id": "cz-v2-sh1-14-11",
+       "t": "kidney 이식 donor는 renal v.가 길어 잇기 쉬운 [[left kidney]]",
+       "k": 1,
+       "n": "王王王. 오지원 25 객33, 24 주1, 20 객2."
+      },
+      {
+       "id": "cz-v2-sh1-14-12",
+       "t": "이식한 kidney는 원래 자리가 아니라 골반 안 [[right iliac fossa]]에 붙인다",
+       "k": 1,
+       "n": "王王王. 혈관은 iliac vessel, ureter는 bladder에 연결."
+      },
+      {
+       "id": "cz-v2-sh1-14-13",
+       "t": "superior suprarenal a.는 [[inferior phrenic a.]]에서 나온다",
+       "k": 1,
+       "n": "王王. middle은 aorta에서 직접, inferior는 renal a.에서."
+      },
+      {
+       "id": "cz-v2-sh1-14-14",
+       "t": "middle suprarenal a.는 [[abdominal aorta]]에서 직접 나온다",
+       "k": 1,
+       "n": "王王."
+      },
+      {
+       "id": "cz-v2-sh1-14-15",
+       "t": "inferior suprarenal a.는 [[renal a.]]에서 나온다",
+       "k": 1,
+       "n": "王王. 20 객2: 세 artery가 모두 renal a.에서 나오는 건 아님."
+      },
+      {
+       "id": "cz-v2-sh1-14-16",
+       "t": "ureter의 세 constriction 중 가장 좁은 곳은 [[ureterovesical junction]]",
+       "k": 1,
+       "n": "王. bladder wall로 들어가는 곳."
+      }
+     ]
+    },
+    {
+     "id": "15",
+     "name": "15. 진단 및 치료 내시경(1)_박준철",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-15-1",
+       "t": "주위 높낮이에 따라 색소가 고여 병변의 물리적 특징으로 contrast를 주는 염색약은 [[indigo carmine]]",
+       "k": 0,
+       "n": "☺ 스마일. crystal violet·methylene blue는 세포를 염색하는 원리."
+      },
+      {
+       "id": "cz-v2-sh1-15-2",
+       "t": "장상피화생·소장 세포는 염색되지만 cancer/dysplasia는 잘 염색되지 않는 염색약은 [[crystal violet, methylene blue]]",
+       "k": 0,
+       "n": "☺ 스마일. 염색 안 된 부위가 faint하게 보임. 우리나라에서는 아직 허가 X."
+      },
+      {
+       "id": "cz-v2-sh1-15-3",
+       "t": "광학 기법으로 점막 형태와 혈관을 두드러지게 보는 내시경은 [[image-enhanced endoscopy]]",
+       "k": 0,
+       "n": "☺ 스마일. 대표 예: virtual chromoendoscopy (NBI 포함)."
+      },
+      {
+       "id": "cz-v2-sh1-15-4",
+       "t": "NBI는 헤모글로빈에 잘 흡수되는 [[청색 (415 nm)]]과 [[녹색 (540 nm)]] 좁은 대역만 쓴다",
+       "k": 1,
+       "n": "☺ 王. 점막 표층의 모세혈관이 두드러짐 (microvascular visualization)."
+      },
+      {
+       "id": "cz-v2-sh1-15-5",
+       "t": "NBI로 특히 잘 보이는 구조는 [[점막 표층의 모세혈관]]",
+       "k": 1,
+       "n": "☺ 王 NBI → microvascular visualization."
+      },
+      {
+       "id": "cz-v2-sh1-15-6",
+       "t": "궤양 없이 점막에만 국한된 조기위암은 [[크기와 관계없이]] ESD 적응증",
+       "k": 1,
+       "n": "☺ 王王 적응증. 교수님 간단 설명."
+      },
+      {
+       "id": "cz-v2-sh1-15-7",
+       "t": "궤양이 있는 조기위암은 [[3 cm]] 크기 제한이 생긴다",
+       "k": 1,
+       "n": "☺ 王王. 궤양 = 점막하층 침범 가능성."
+      },
+      {
+       "id": "cz-v2-sh1-15-8",
+       "t": "미분화암이라도 궤양이 없고 [[2 cm]] 이하면 ESD 적응증",
+       "k": 1,
+       "n": "☺ 王王 적응증."
+      },
+      {
+       "id": "cz-v2-sh1-15-9",
+       "t": "ESD 후 병리에서 [[림프혈관 침윤]]이 확인되면 수술이 필요하다",
+       "k": 0,
+       "n": "위 밖 림프절 전이를 고려하기 때문."
+      },
+      {
+       "id": "cz-v2-sh1-15-10",
+       "t": "EMR과 달리 snare가 아닌 [[knife]]로 박리해서 ESD는 크기와 무관하게 뜰 수 있다",
+       "k": 0,
+       "n": "필족 III-B."
+      },
+      {
+       "id": "cz-v2-sh1-15-11",
+       "t": "SEMS 중 [[covered]]는 migration이 많고, [[uncovered]]는 ingrowth가 많다",
+       "k": 0,
+       "n": "☺ 애매한 스마일. migration = 연동운동으로 제자리를 벗어남, ingrowth = 그물망 사이로 조직이 자라 들어옴."
+      },
+      {
+       "id": "cz-v2-sh1-15-12",
+       "t": "NSAID는 [[COX]]를 억제해 prostaglandin 합성을 줄여 궤양을 만든다",
+       "k": 0,
+       "n": "☺ 스마일. → 점액·중탄산염 분비 ↓ → ulcer."
+      },
+      {
+       "id": "cz-v2-sh1-15-13",
+       "t": "NSAID 궤양 고위험군(궤양 병력)의 예방은 [[PPI]]",
+       "k": 1,
+       "n": "☺ 王 Prevention of NSAIDs-induced gastropathy."
+      },
+      {
+       "id": "cz-v2-sh1-15-14",
+       "t": "NSAID 궤양 예방: 비선택적 NSAID 대신 [[선택적 COX-2 inhibitor]]",
+       "k": 1,
+       "n": "☺ 王. H. pylori eradication도."
+      },
+      {
+       "id": "cz-v2-sh1-15-15",
+       "t": "NSAID 궤양의 가장 중요한 고위험군은 [[궤양 병력 (history of ulcer)]]",
+       "k": 1,
+       "n": "☺ 王."
+      }
+     ]
+    },
+    {
+     "id": "16",
+     "name": "16. 진단 및 치료 내시경(2)_정문재",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-16-1",
+       "t": "절제 불가능 췌장두부암 환자의 조직학적 확진 방법은 [[내시경 초음파 하 바늘생검 (EUS-FNB)]]",
+       "k": 1,
+       "n": "王王王 교수님이 꼭 알라고 한 첫·마지막 슬라이드 Q1. duodenum 2nd portion에서 intervening mass만 피하면 안전하게 바늘을 꽂음."
+      },
+      {
+       "id": "cz-v2-sh1-16-2",
+       "t": "췌장두부암 환자의 황달 완화 방법은 [[ERCP]] + [[스텐트 (SEMS)]]",
+       "k": 1,
+       "n": "王王王 Q2. 종괴가 bile duct를 막아 담즙 정체."
+      },
+      {
+       "id": "cz-v2-sh1-16-3",
+       "t": "췌장두부암으로 음식을 못 먹을 때(GOO) 먼저 고려하는 시술은 [[duodenal SEMS]]",
+       "k": 1,
+       "n": "王王王 Q3. 다른 선택지는 surgical GJ. 교수님: 가능하면 minimally invasive한 SEMS가 유리."
+      },
+      {
+       "id": "cz-v2-sh1-16-4",
+       "t": "췌장두부암 환자의 통증 조절 방법은 [[EUS-guided celiac plexus neurolysis (EUS-CPN)]]",
+       "k": 1,
+       "n": "王王王 Q4. celiac plexus에 bupivacaine 후 ethanol 주입 → 약 6개월 진통제 요구량 감소."
+      },
+      {
+       "id": "cz-v2-sh1-16-5",
+       "t": "췌장 종괴로 bile duct와 pancreatic duct가 함께 늘어난 CT 소견은 [[double-duct sign]]",
+       "k": 0,
+       "n": "bile duct 정상 8 mm, pancreatic duct 정상 2 mm까지."
+      },
+      {
+       "id": "cz-v2-sh1-16-6",
+       "t": "진행암에서 내시경의 목적은 [[증상 완화 (palliation)]]로 항암치료를 이어가게 하는 것",
+       "k": 0,
+       "n": "교수님 강조. 문제에 시술 이름이 한글로 나오니 한글 이름도 알기."
+      },
+      {
+       "id": "cz-v2-sh1-16-7",
+       "t": "uncovered SEMS는 암이 그물 사이로 자라 들어오는 [[ingrowth]]로 재폐쇄될 수 있다",
+       "k": 0,
+       "n": "covered SEMS는 ingrowth는 막지만 미끄러워 migration 가능."
+      },
+      {
+       "id": "cz-v2-sh1-16-8",
+       "t": "확진 전이거나 후속 치료가 있을 때 쓰는 작은 직경 스텐트는 [[plastic stent]]",
+       "k": 0,
+       "n": "쉽게 넣었다 뺐다 가능."
+      },
+      {
+       "id": "cz-v2-sh1-16-9",
+       "t": "malignant GOO의 CT 소견은 [[위의 distension]]과 duodenal stricture",
+       "k": 1,
+       "n": "王 만년 문족 포인트. 식후 vomiting, early satiety."
+      },
+      {
+       "id": "cz-v2-sh1-16-10",
+       "t": "GOO에서 duodenal SEMS의 단점은 [[ingrowth]]로 재폐쇄돼 재시술이 필요할 수 있다는 것",
+       "k": 1,
+       "n": "王王 장점: 빠른 회복, 짧은 입원."
+      },
+      {
+       "id": "cz-v2-sh1-16-11",
+       "t": "surgical GJ는 전신마취가 필요해 [[기대 여명이 비교적 길 때]] 고려한다",
+       "k": 0,
+       "n": "장점: ingrowth 문제 없음."
+      },
+      {
+       "id": "cz-v2-sh1-16-12",
+       "t": "GB stone과 CBD stone이 함께 있으면 [[CBD stone 먼저 제거 (ERCP)]] 후 cholecystectomy",
+       "k": 1,
+       "n": "王 교수님: ERCP 시행/유보 상황을 구별할 줄 알아야."
+      },
+      {
+       "id": "cz-v2-sh1-16-13",
+       "t": "US/CT에서 stone이 보이거나 cholangitis가 있거나 bilirubin >4 + CBD dilation이면 [[high risk]] → 바로 ERCP",
+       "k": 1,
+       "n": "王王."
+      },
+      {
+       "id": "cz-v2-sh1-16-14",
+       "t": "CBD stone intermediate risk(간수치 이상, 55세 초과, CBD 확장만)는 먼저 [[EUS나 MRCP]]로 확인한다",
+       "k": 1,
+       "n": "王. 있으면 ERCP, 없으면 바로 cholecystectomy."
+      },
+      {
+       "id": "cz-v2-sh1-16-15",
+       "t": "CBD stone low risk(해당 없음)는 [[바로 cholecystectomy]]",
+       "k": 0,
+       "n": "끕분바 표."
+      },
+      {
+       "id": "cz-v2-sh1-16-16",
+       "t": "급성 담관염에서 바로 ERCP(urgent drainage)를 하는 경우는 [[organ dysfunction]]이 있을 때 (grade 3)",
+       "k": 1,
+       "n": "王. shock, 의식 저하, 호흡·신장·간·혈액 failure."
+      },
+      {
+       "id": "cz-v2-sh1-16-17",
+       "t": "organ dysfunction이 없는 급성 담관염은 [[항생제 + 영상검사]]로 원인을 파악한 뒤 ERCP 여부를 정한다",
+       "k": 1,
+       "n": "王. 교수님: 바로 ERCP 하는 거 아님."
+      },
+      {
+       "id": "cz-v2-sh1-16-18",
+       "t": "grade 1 급성 담관염은 항생제를 쓰고 [[24시간]] 안에 반응이 없으면 배액한다",
+       "k": 0,
+       "n": "급분바 #2."
+      },
+      {
+       "id": "cz-v2-sh1-16-19",
+       "t": "metastatic disease라 palliation만 가능하면 처음부터 [[SEMS]]를 넣는다",
+       "k": 1,
+       "n": "王. 단 확진 전 uncovered SEMS는 X."
+      },
+      {
+       "id": "cz-v2-sh1-16-20",
+       "t": "resectable 악성 담도 폐쇄에서 증상이 없으면 [[무조건 drain하지 않는다]]",
+       "k": 0,
+       "n": "stent를 넣으면 합병증 ↑. cholangitis·수술 지연·neoadjuvant·severe pruritus면 drain 고려."
+      },
+      {
+       "id": "cz-v2-sh1-16-21",
+       "t": "ERCP의 가장 흔한 합병증은 [[post-ERCP pancreatitis]] (~3–10%)",
+       "k": 0,
+       "n": "위험인자: 젊은 여성, difficult cannulation 등. 가장 확실한 예방 = 불필요한 ERCP 안 하기."
+      },
+      {
+       "id": "cz-v2-sh1-16-22",
+       "t": "post-ERCP pancreatitis 예방의 가장 standard는 [[rectal NSAID]]",
+       "k": 0,
+       "n": "wire-guided cannulation, pancreatic duct stent, IV hydration도."
+      },
+      {
+       "id": "cz-v2-sh1-16-23",
+       "t": "EUS는 probe를 장기 가까이 가져가 [[high frequency]] 신호를 써서 해상도가 좋다",
+       "k": 0,
+       "n": "transabdominal US는 멀어서 low frequency만 → 해상도 낮음."
+      },
+      {
+       "id": "cz-v2-sh1-16-24",
+       "t": "EUS로 위·십이지장 벽의 layer를 구별해 병변의 [[invasion depth]]를 알 수 있다",
+       "k": 0,
+       "n": "diagnostic EUS."
+      }
+     ]
+    },
+    {
+     "id": "17",
+     "name": "17. 인터벤션 영상의학_박주일",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-17-1",
+       "t": "교수님: 간암은 웬만하면 [[TACE]]로 다 된다 (정답 유력)",
+       "k": 1,
+       "n": "王 26 출제 예고. HCC의 BCLC staging별 치료전략 1문제 + 나머지 시술 1문제 예상."
+      },
+      {
+       "id": "cz-v2-sh1-17-2",
+       "t": "TACE의 1st-line 적응증은 [[intermediate stage (BCLC B)]]",
+       "k": 1,
+       "n": "王. 수행상태 양호, 크고 다발성인 간암."
+      },
+      {
+       "id": "cz-v2-sh1-17-3",
+       "t": "BCLC 0/A라도 심폐질환 등이나 크기·위치로 resection·ablation이 어려우면 [[TACE]]를 고려한다",
+       "k": 1,
+       "n": "王. LVEF<50%·FEV1<50%, 조절 안 되는 당뇨, Cr>2.0, ablation 불가 위치."
+      },
+      {
+       "id": "cz-v2-sh1-17-4",
+       "t": "HCC는 혈류의 90% 이상을 [[간동맥]]에서 받는다 (정상 간은 70~80%를 문맥에서)",
+       "k": 1,
+       "n": "그래서 간동맥으로 넣으면 HCC에 선택적으로 고농도."
+      },
+      {
+       "id": "cz-v2-sh1-17-5",
+       "t": "CT에서 arterial phase [[hyperenhancement]], venous phase [[hypoenhancement]]면 HCC",
+       "k": 1,
+       "n": "王. 교수님: CTA 단면 보고 HCC 눈치채기."
+      },
+      {
+       "id": "cz-v2-sh1-17-6",
+       "t": "TACE 구성: 항암제 [[adriamycin]] + 색전물질 gelfoam + 확인용 [[lipiodol]]",
+       "k": 0,
+       "n": "앞분바 D-1."
+      },
+      {
+       "id": "cz-v2-sh1-17-7",
+       "t": "TACE 부작용 중 통증·구역·발열·구토를 묶어 [[색전후증후군]]이라 한다",
+       "k": 0,
+       "n": "그 밖에 담도 손상·간농양, 급성간부전, 비표적 색전."
+      },
+      {
+       "id": "cz-v2-sh1-17-8",
+       "t": "Y-90 방사성 미세구를 넣는 간동맥 색전술은 [[TARE]]",
+       "k": 0,
+       "n": "절제 불가능한 HCC 등."
+      },
+      {
+       "id": "cz-v2-sh1-17-9",
+       "t": "BCLC 0 (very early): 단일 HCC [[≤2 cm]], PS 0 → 1st line ablation",
+       "k": 0,
+       "n": "드물지만 간이식 후보면 resection."
+      },
+      {
+       "id": "cz-v2-sh1-17-10",
+       "t": "BCLC A: 단일 HCC >2 cm는 [[resection]], 2~3개이고 각각 ≤3 cm는 [[ablation]]",
+       "k": 0,
+       "n": "단일 HCC는 3 cm 이하일 필요 없음 주의."
+      },
+      {
+       "id": "cz-v2-sh1-17-11",
+       "t": "BCLC B: >3개이거나 2~3개 중 >3 cm가 있으면 1st line [[TACE]]",
+       "k": 0,
+       "n": "1개인데 >3 cm면 A임 주의."
+      },
+      {
+       "id": "cz-v2-sh1-17-12",
+       "t": "교수님: 강의 범위가 아닌 [[transplant, systemic therapy, BSC]]는 답이 되기 어렵다",
+       "k": 0,
+       "n": "26 질문 답변."
+      },
+      {
+       "id": "cz-v2-sh1-17-13",
+       "t": "문맥 고혈압으로 조절 안 되는 정맥류 출혈·난치성 복수에는 [[TIPS]]",
+       "k": 1,
+       "n": "王 25/24/23 기출. hepatic–portal v. shunt로 문맥압을 낮춤."
+      },
+      {
+       "id": "cz-v2-sh1-17-14",
+       "t": "gastrorenal shunt를 동반한 위정맥류에는 [[PARTO/BRTO]]",
+       "k": 0,
+       "n": "plug/balloon + gelfoam/sclerosing agent."
+      },
+      {
+       "id": "cz-v2-sh1-17-15",
+       "t": "내시경 지혈이 실패·곤란한 GI bleeding에는 출혈 동맥 [[embolization]]",
+       "k": 0,
+       "n": "23 기출."
+      },
+      {
+       "id": "cz-v2-sh1-17-16",
+       "t": "담관 폐쇄로 폐쇄성 황달·담관염이 있으면 [[PTBD]]로 담관을 배액한다",
+       "k": 0,
+       "n": "23 기출. percutaneous transhepatic biliary drainage."
+      },
+      {
+       "id": "cz-v2-sh1-17-17",
+       "t": "수술 고위험 환자의 급성 담낭염에는 [[PTGBD]]로 담낭을 배액한다",
+       "k": 0,
+       "n": "percutaneous transhepatic gallbladder drainage."
+      },
+      {
+       "id": "cz-v2-sh1-17-18",
+       "t": "오래 입으로 못 먹을 때 위에 영양을 넣는 시술은 [[PRG/PEG]]",
+       "k": 1,
+       "n": "王 25/24/23 기출. 영상/내시경 유도 gastrostomy."
+      },
+      {
+       "id": "cz-v2-sh1-17-19",
+       "t": "PRG/PEG의 합병증은 [[공기 복막증]]",
+       "k": 1,
+       "n": "王. 예방: 정중앙이나 lateral border로 epigastric a. 피하기, fastener로 위벽·복벽 밀착."
+      },
+      {
+       "id": "cz-v2-sh1-17-20",
+       "t": "심한 역류, 위마비, 위출구폐쇄가 있으면 위를 거쳐 공장에 영양을 주는 [[gastrojejunostomy]]",
+       "k": 0,
+       "n": "위절제로 위 접근이 안 되면 jejunostomy (위험 높고 성공률 낮음)."
+      }
+     ]
+    },
+    {
+     "id": "18",
+     "name": "18. 골반의 벽과 방광의 구조_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-18-1",
+       "t": "true (lesser) pelvis의 위 경계는 [[pelvic inlet]], 아래 경계는 [[pelvic outlet]]",
+       "k": 1,
+       "n": "王. 교수님: true pelvis의 경계를 알아두면 됨."
+      },
+      {
+       "id": "cz-v2-sh1-18-2",
+       "t": "perineal membrane(샅막)이 있는 쪽은 [[urogenital triangle]]",
+       "k": 1,
+       "n": "王王 막/지방. anal triangle은 막 없이 ischioanal fossa(지방, 쿠션)."
+      },
+      {
+       "id": "cz-v2-sh1-18-3",
+       "t": "anal triangle에서 perineal membrane 대신 있는 지방 공간은 [[ischioanal fossa]]",
+       "k": 1,
+       "n": "王 막/지방. anal canal은 pelvic diaphragm만 통과 (deep perineal pouch X)."
+      },
+      {
+       "id": "cz-v2-sh1-18-4",
+       "t": "urogenital triangle과 anal triangle은 한 평면이 [[아니다]] (ischial tuberosity 선에서 접힘)",
+       "k": 0,
+       "n": "교수님: 앉으면 ischial tuberosity 두 개만 닿는 이유."
+      },
+      {
+       "id": "cz-v2-sh1-18-5",
+       "t": "perineal membrane 위쪽 공간은 [[deep perineal pouch]], 아래(바깥)쪽은 [[superficial perineal pouch]]",
+       "k": 1,
+       "n": "王王 교수님: 'pelvis에서는 반대예요. 꼭 알아두세요.'"
+      },
+      {
+       "id": "cz-v2-sh1-18-6",
+       "t": "pelvic diaphragm = [[levator ani]] + [[coccygeus]]",
+       "k": 1,
+       "n": "王. 교수님: 제일 중요한 근육은 levator ani."
+      },
+      {
+       "id": "cz-v2-sh1-18-7",
+       "t": "levator ani는 obturator internus 중간의 [[tendinous arch]]에서 일어나 anococcygeal lig.에서 만난다",
+       "k": 0,
+       "n": "2022 1번 ③ 관련."
+      },
+      {
+       "id": "cz-v2-sh1-18-8",
+       "t": "levator ani 세 근육 중 가장 앞에서 rectum(anorectal junction)을 뒤에서 감싸는 것은 [[puborectalis]]",
+       "k": 1,
+       "n": "王王. 교수님: pubo-가 붙은 두 근육(puborectalis, pubococcygeus)이 굉장히 중요."
+      },
+      {
+       "id": "cz-v2-sh1-18-9",
+       "t": "levator ani 세 근육: puborectalis, [[pubococcygeus]], iliococcygeus",
+       "k": 1,
+       "n": "王王. pubococcygeus·iliococcygeus는 anococcygeal lig.에 붙음."
+      },
+      {
+       "id": "cz-v2-sh1-18-10",
+       "t": "puborectalis와 pubococcygeus가 rectum을 앞으로 당겨 만드는 각도는 [[perineal flexure (anorectal angle)]]",
+       "k": 1,
+       "n": "王王. 변 참는 데 도움."
+      },
+      {
+       "id": "cz-v2-sh1-18-11",
+       "t": "puborectalis·pubococcygeus에 문제가 생기면 [[변실금]]과 [[요실금]]이 생긴다",
+       "k": 1,
+       "n": "王王王."
+      },
+      {
+       "id": "cz-v2-sh1-18-12",
+       "t": "강의록 임상 문제: 변실금·요실금에 가장 중요한 근육(보기에 puborectalis가 없을 때)은 [[pubococcygeus]]",
+       "k": 1,
+       "n": "王王 수업 중 임상 문제 1·2. 교수님: 선지에 puborectalis가 없으면 pubococcygeus."
+      },
+      {
+       "id": "cz-v2-sh1-18-13",
+       "t": "rectum과 anal canal의 첫 번째(functional) 경계는 [[puborectalis]]가 묶는 곳",
+       "k": 1,
+       "n": "王王王. 위 = rectum(변이 차는 곳), 아래 = anal canal. anatomical 경계는 pectinate line(다음 교시)."
+      },
+      {
+       "id": "cz-v2-sh1-18-14",
+       "t": "levator ani의 신경은 위쪽 [[S4]] (대부분), 아래쪽 [[pudendal n.]]",
+       "k": 0,
+       "n": "교수님: 오늘 내일 제일 중요한 신경이 pudendal nerve."
+      },
+      {
+       "id": "cz-v2-sh1-18-15",
+       "t": "여성에서 앉거나 서 있을 때 복막 공간 중 가장 낮아 염증 물질이 먼저 고이는 곳은 [[rectouterine pouch (Douglas pouch)]]",
+       "k": 1,
+       "n": "王王王. vagina로 뚫어 빼냄. rectovesical·vesicouterine pouch는 주로 오답 선지."
+      },
+      {
+       "id": "cz-v2-sh1-18-16",
+       "t": "uterus는 똑바르지 않고 [[두 번]] 굽어 있다",
+       "k": 1,
+       "n": "王. cervix–몸통 약 160–170°, cervix–vagina 약 90°."
+      },
+      {
+       "id": "cz-v2-sh1-18-17",
+       "t": "방광은 골반 장기 중 맨 앞, [[pubic symphysis]] 바로 뒤에 있다",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-18-18",
+       "t": "양쪽 ureteric orifice와 internal urethral orifice가 만드는 삼각형은 [[trigone]]",
+       "k": 1,
+       "n": "王王. 점막과 근육이 딱 붙어 잘 안 접힘."
+      },
+      {
+       "id": "cz-v2-sh1-18-19",
+       "t": "방광의 base는 [[뒤쪽]], apex는 [[앞쪽]]",
+       "k": 1,
+       "n": "王. 교수님: 여기 base는 뒤쪽에 있어요."
+      },
+      {
+       "id": "cz-v2-sh1-18-20",
+       "t": "방광 apex에서 배꼽까지 이어지는 것은 [[median umbilical ligament]]",
+       "k": 1,
+       "n": "王 교수님: 알아두세요. medial이 아니라 median!"
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "name": "19. 직장과 항문의 구조_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-19-1",
+       "t": "colon에 있다가 rectum에는 없는 세 구조: teniae coli, [[haustra]], [[omental appendices]]",
+       "k": 1,
+       "n": "王 이 세 조직은 rectum에 존재하지 않는다!"
+      },
+      {
+       "id": "cz-v2-sh1-19-2",
+       "t": "rectum이 좌-우-좌로 굽이지는 것은 [[lateral flexure]], 안쪽 칸막이는 [[transverse rectal fold]]",
+       "k": 0,
+       "n": "sacrum을 따라 앞으로 휘는 것은 sacral flexure, 부푼 곳은 rectal ampulla."
+      },
+      {
+       "id": "cz-v2-sh1-19-3",
+       "t": "rectum은 [[S3]] 높이에서 시작해 coccyx까지 간다",
+       "k": 0,
+       "n": "끕분바 1."
+      },
+      {
+       "id": "cz-v2-sh1-19-4",
+       "t": "rectum 아래 1/3과 anal canal은 [[복막 바깥]] 장기",
+       "k": 0,
+       "n": "위 1/3은 앞·가쪽, 중간 1/3은 앞쪽만 복막에 덮임."
+      },
+      {
+       "id": "cz-v2-sh1-19-5",
+       "t": "rectum 주변 지방 조직은 [[mesorectum]], 이를 둘러싼 막은 [[mesorectal fascia]]",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-19-6",
+       "t": "levator ani의 puborectalis를 지나는 직장 단면은 [[anorectal junction (perineal flexure)]]",
+       "k": 1,
+       "n": "王王. 수축하면 장에 각도를 줘서 배변을 참음."
+      },
+      {
+       "id": "cz-v2-sh1-19-7",
+       "t": "anal valve들을 이은 경계선은 [[pectinate line (dentate line)]]",
+       "k": 1,
+       "n": "王王. 튀어나온 것 anal column, 움푹한 것 anal valve, 그 사이 공간 anal sinus."
+      },
+      {
+       "id": "cz-v2-sh1-19-8",
+       "t": "anal canal 안쪽 불수의근은 [[internal anal sphincter]](자율신경), 바깥 수의근은 [[external anal sphincter]](체성신경)",
+       "k": 0,
+       "n": "internal = 평활근, external = 골격근."
+      },
+      {
+       "id": "cz-v2-sh1-19-9",
+       "t": "anal canal과 perianal skin의 경계는 [[anocutaneous line (anal verge)]]",
+       "k": 1,
+       "n": "王. 털·색소 없고 비각질화 = anal canal, 털 있는 각질화 = perianal skin."
+      },
+      {
+       "id": "cz-v2-sh1-19-10",
+       "t": "internal sphincter 아랫부분과 external sphincter가 만나는 곳은 [[intersphincteric groove (Hilton's white line)]]",
+       "k": 1,
+       "n": "王. anocutaneous line과 거의 같은 위치."
+      },
+      {
+       "id": "cz-v2-sh1-19-11",
+       "t": "rectum과 anal canal의 functional(surgical) 경계는 [[anorectal junction (perineal flexure)]]",
+       "k": 1,
+       "n": "王. puborectalis가 조이는 곳. 육안 X, 환자에게 힘주게 하면 확인. 교수님은 surgical 경계라는 말을 애용."
+      },
+      {
+       "id": "cz-v2-sh1-19-12",
+       "t": "rectum과 anal canal의 anatomical(embryonic) 경계는 [[pectinate line]]",
+       "k": 1,
+       "n": "王. 위는 내배엽, 아래는 외배엽 기원 → 신경·혈관·림프가 다름."
+      },
+      {
+       "id": "cz-v2-sh1-19-13",
+       "t": "dentate line 위는 [[visceral(자율)]] 신경이라 감각이 둔하고, 아래는 [[somatic]] 신경이라 통증에 민감하다",
+       "k": 1,
+       "n": "王 신경. 아래는 pudendal n. 등."
+      },
+      {
+       "id": "cz-v2-sh1-19-14",
+       "t": "dentate line 위의 정맥은 superior rectal v. → IMV → [[portal v.]] (간 경유)",
+       "k": 1,
+       "n": "王 정맥. 아래는 internal·common iliac v. → IVC (간 미경유)."
+      },
+      {
+       "id": "cz-v2-sh1-19-15",
+       "t": "dentate line 아래의 림프는 [[superficial inguinal LN]]으로 간다",
+       "k": 0,
+       "n": "위는 inferior mesenteric LN, internal iliac LN."
+      },
+      {
+       "id": "cz-v2-sh1-19-16",
+       "t": "dentate line 위 동맥은 [[superior rectal a.]], 아래는 [[inferior rectal a.]]",
+       "k": 0,
+       "n": "끕분바 4."
+      },
+      {
+       "id": "cz-v2-sh1-19-17",
+       "t": "간에 문제가 생기면 pectinate line 근처 portocaval 문합으로 혈류가 몰려 [[치핵]]이 생긴다",
+       "k": 1,
+       "n": "王 치핵."
+      },
+      {
+       "id": "cz-v2-sh1-19-18",
+       "t": "dentate line 아래에 생겨 체성신경 때문에 더 아픈 치핵은 [[외치핵]]",
+       "k": 1,
+       "n": "王 치핵. 위쪽은 내치핵."
+      }
+     ]
+    },
+    {
+     "id": "20",
+     "name": "20. 위식도역류질환 및 기능성위장장애_윤영훈",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-20-1",
+       "t": "GERD는 역류 증상이 [[삶의 질]]에 나쁜 영향을 주거나 합병증을 일으킬 때 — 환자가 불편하지 않으면 GERD가 아님",
+       "k": 1,
+       "n": "급분바 정의 (빨간 글씨)."
+      },
+      {
+       "id": "cz-v2-sh1-20-2",
+       "t": "GERD 전형적 증상은 [[가슴쓰림(heartburn)]]과 [[산역류]]",
+       "k": 1,
+       "n": "급분바. 흉통도."
+      },
+      {
+       "id": "cz-v2-sh1-20-3",
+       "t": "GERD 비전형적 증상: 만성 기침, [[쉰 목소리]], 목 이물감",
+       "k": 1,
+       "n": "㉔ 문족 정답(비전형 증상 = hoarseness). 합병증과 헷갈리지 않기."
+      },
+      {
+       "id": "cz-v2-sh1-20-4",
+       "t": "GERD 합병증: [[미란성 식도염]], 식도 협착, [[Barrett 식도]]",
+       "k": 1,
+       "n": "급분바 (파란 글씨)."
+      },
+      {
+       "id": "cz-v2-sh1-20-5",
+       "t": "GERD의 1순위 기전은 [[일과성 하부식도괄약근 이완(TLESR)]]과 열공탈장(acid pocket)",
+       "k": 1,
+       "n": "급분바 1순위. 2순위 = 타액 HCO3 감소, 식도 청소능 저하."
+      },
+      {
+       "id": "cz-v2-sh1-20-6",
+       "t": "GERD에서 위산 분비는 [[증가하지 않는다]] — 위식도 접합부가 헐거워져서 생김",
+       "k": 1,
+       "n": "㉕㉓㉒ 문족: '가장 주된 병인은 위산 분비 증가'(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-7",
+       "t": "GERD 유병률은 [[나이가 많을수록]] 높다",
+       "k": 1,
+       "n": "㉕㉓㉒㉑⑳ 문족: '고령일수록 유병률이 낮다'(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-8",
+       "t": "GERD 병인 새 슬라이드(한글로 외우기): [[항역류 장벽]], [[식도 청소능]], 점막 방어",
+       "k": 1,
+       "n": "교수님: 이 슬라이드는 외워라. 증상에 영향 주는 것 중 직접 언급 = 식도의 감각 민감도."
+      },
+      {
+       "id": "cz-v2-sh1-20-9",
+       "t": "산 노출이 가장 많고 식도가 가장 둔감한 쪽은 [[Barrett 식도]], 반대쪽 끝은 [[식도 과민성]]",
+       "k": 1,
+       "n": "그래프 설명 (교수님 시간 들여 설명). 순서 Barrett > ERD > NERD."
+      },
+      {
+       "id": "cz-v2-sh1-20-10",
+       "t": "GERD 중 가장 흔한 것은 [[NERD (약 60%)]]",
+       "k": 1,
+       "n": "급분바. ERD 35%, CRD <5%. 문족: 미란성이 비미란성보다 흔하다(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-11",
+       "t": "Barrett을 빼면 식도 산 노출이 가장 많은 것은 [[미란성 역류질환(ERD)]]",
+       "k": 1,
+       "n": "㉕ 문족 정답."
+      },
+      {
+       "id": "cz-v2-sh1-20-12",
+       "t": "ERD 진단의 gold standard는 [[내시경]] (조직검사로 확진하는 것 아님)",
+       "k": 1,
+       "n": "㉕㉓㉒ 문족: '확진은 내시경 조직검사로'(X). LA 분류 A~D."
+      },
+      {
+       "id": "cz-v2-sh1-20-13",
+       "t": "NERD 진단: [[24시간 임피던스-pH 검사]] 또는 PPI test",
+       "k": 1,
+       "n": "급분바. 내시경 정상인데 증상이 있을 때."
+      },
+      {
+       "id": "cz-v2-sh1-20-14",
+       "t": "산 노출 시간(AET)은 동양인 [[4% 이상]]이면 비정상",
+       "k": 1,
+       "n": "급분바. 서양인 6% 이상, 4~6%는 borderline."
+      },
+      {
+       "id": "cz-v2-sh1-20-15",
+       "t": "증상-역류 연관성 지표 중 가장 정확한 것은 [[SAP]] — [[95% 이상]]이면 유의",
+       "k": 1,
+       "n": "급분바. ㉓⑲⑱⑬ 문족."
+      },
+      {
+       "id": "cz-v2-sh1-20-16",
+       "t": "PPI test는 표준 용량 PPI를 [[2주]] 쓰는 것이고 [[전형적 증상]]에서만 적용",
+       "k": 1,
+       "n": "급분바 (빨간 글씨). 비전형 증상에서는 권장 안 함."
+      },
+      {
+       "id": "cz-v2-sh1-20-17",
+       "t": "GERD 생활습관: [[체중 감량]], 침상 머리 높이기, 야식 피하기",
+       "k": 1,
+       "n": "㉕㉓㉒㉑⑳ 문족: '식사 후 누워서 침상 안정'(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-18",
+       "t": "GERD의 가장 주된 일차 치료는 [[위산분비억제제(PPI)]]",
+       "k": 1,
+       "n": "㉕㉓㉑⑳ 문족 정답. 항역류 수술이 일차(X) ㉒."
+      },
+      {
+       "id": "cz-v2-sh1-20-19",
+       "t": "GERD 초기 치료: 표준 용량 PPI 하루 1번 [[4~8주]]",
+       "k": 1,
+       "n": "급분바. P-CAB은 신약, 빨리 듣는다."
+      },
+      {
+       "id": "cz-v2-sh1-20-20",
+       "t": "PPI를 끊으면 6개월 안에 [[75~90%]] 재발 → [[유지요법]]이 필요",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-20-21",
+       "t": "심하지 않은 GERD의 유지요법은 증상 있을 때만 먹는 [[on-demand]] (LA C/D면 매일 continuous)",
+       "k": 1,
+       "n": "급분바. 비용 적고 만족도 좋음, 최근 가이드라인 지지."
+      },
+      {
+       "id": "cz-v2-sh1-20-22",
+       "t": "PPI 장기 복용에서 유의하게 늘어난 부작용은 [[장 감염(enteric infection)]]뿐",
+       "k": 1,
+       "n": "급분바 5년 전향 연구."
+      },
+      {
+       "id": "cz-v2-sh1-20-23",
+       "t": "AET 정상 + 증상-역류 연관 [[양성]] → 역류 과민성",
+       "k": 1,
+       "n": "수업 증례: PPI 8주에도 지속, 내시경 정상, AET 2%."
+      },
+      {
+       "id": "cz-v2-sh1-20-24",
+       "t": "AET 정상 + 증상-역류 연관 [[음성]] → 기능성 가슴쓰림",
+       "k": 1,
+       "n": "NERD는 AET 증가. NERD까지 GERD, 아래 둘은 기능성 식도 질환."
+      },
+      {
+       "id": "cz-v2-sh1-20-25",
+       "t": "역류 과민성·기능성 가슴쓰림 치료는 [[저용량 신경조절제(항우울제)]]",
+       "k": 1,
+       "n": "교수님: PPI로 pH를 정상까지 올리기 어려움. 옛날 항우울제(TCA 등)가 효과, 반응률 60%."
+      },
+      {
+       "id": "cz-v2-sh1-20-26",
+       "t": "FGID 대신 권장하는 용어는 [[DGBI (뇌-장축 상호작용 장애)]]",
+       "k": 1,
+       "n": "급분바. functional = 이상 없음·정신 문제로 들릴 수 있어서."
+      },
+      {
+       "id": "cz-v2-sh1-20-27",
+       "t": "DGBI는 기질적 이상이 없어 [[증상]]으로 진단하고, 올해 [[Rome V]]로 개정",
+       "k": 1,
+       "n": "진도표: Rome V 개정 중요."
+      },
+      {
+       "id": "cz-v2-sh1-20-28",
+       "t": "DGBI 진단은 과거 [[배제 진단]]에서 지금은 [[적극적 진단]]으로",
+       "k": 1,
+       "n": "새 슬라이드. 전형적 증상이면 우선 진단하고 치료."
+      },
+      {
+       "id": "cz-v2-sh1-20-29",
+       "t": "기능성 소화불량과 IBS의 공통 병인은 [[내장 과민성]]",
+       "k": 1,
+       "n": "㉕ 문족 정답. 올해 한 슬라이드로 정리."
+      },
+      {
+       "id": "cz-v2-sh1-20-30",
+       "t": "DGBI 병태생리 중 면역·장벽 이상은 비만세포의 [[저등급 염증(low grade inflammation)]]",
+       "k": 1,
+       "n": "급분바. 운동성 이상, 내장 과민, 면역·장벽, 마이크로바이옴-장-뇌 축, 음식."
+      },
+      {
+       "id": "cz-v2-sh1-20-31",
+       "t": "FD 아형: 식후 증상 악화 = [[PDS]], 식사와 무관한 상복부 통증·작열감 = [[EPS]]",
+       "k": 1,
+       "n": "Rome V: 가급적 아형 진단 사용."
+      },
+      {
+       "id": "cz-v2-sh1-20-32",
+       "t": "Rome V에서 PDS 진단 기준은 주 3일에서 주 [[2일]] 이상으로 완화",
+       "k": 1,
+       "n": "Rome V 변화 (새 슬라이드)."
+      },
+      {
+       "id": "cz-v2-sh1-20-33",
+       "t": "Rome V: 오심·구토가 주 증상이면 FD가 아니라 [[다른 질환]](gastroparesis 등)을 평가",
+       "k": 1,
+       "n": "Rome V 변화."
+      },
+      {
+       "id": "cz-v2-sh1-20-34",
+       "t": "조기 포만감과 가장 관련 높은 FD 병인은 [[위 조절 장애(impaired accommodation)]]",
+       "k": 1,
+       "n": "㉔ 문족 정답. fundus가 부풀지 못함, FD의 약 40%, 치료 fundic relaxant."
+      },
+      {
+       "id": "cz-v2-sh1-20-35",
+       "t": "FD의 십이지장 병태생리는 [[저등급 염증]]과 점막 투과성 증가",
+       "k": 1,
+       "n": "급분바. 치료 = 위산 억제."
+      },
+      {
+       "id": "cz-v2-sh1-20-36",
+       "t": "IBS 진단(Rome V): 반복되는 복통·복부 불편감이 월 평균 [[3일]] 이상",
+       "k": 1,
+       "n": "새 슬라이드(王). 교수님: 복통이 없으면 IBS가 아니다."
+      },
+      {
+       "id": "cz-v2-sh1-20-37",
+       "t": "IBS 복통은 배변, [[배변 횟수 변화]], [[변 형태 변화]] 중 2개 이상과 연관",
+       "k": 1,
+       "n": "새 슬라이드."
+      },
+      {
+       "id": "cz-v2-sh1-20-38",
+       "t": "IBS-C는 Bristol [[1~2형]], IBS-D는 Bristol [[6~7형]]이 주로",
+       "k": 1,
+       "n": "type 4가 가장 ideal. ㉔ 문족: IBS에 변비 동반 없음(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-39",
+       "t": "혈변, 야간 설사, 체중 감소는 IBS가 아니라 [[경고 소견]] → IBD·대장암 감별",
+       "k": 1,
+       "n": "문족(타교수님) 반복: IBS의 증상이다(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-40",
+       "t": "IBS-D에서 IBD를 감별할 때 하는 대변 검사는 [[칼프로텍틴]]",
+       "k": 1,
+       "n": "교수님: 수치 증가 = 염증."
+      },
+      {
+       "id": "cz-v2-sh1-20-41",
+       "t": "IBS 항생제 치료는 [[rifaximin]] — 열흘 먹고 끊어도 약 6개월 효과",
+       "k": 1,
+       "n": "급분바. 소장 내 abnormal 집락균 제거."
+      },
+      {
+       "id": "cz-v2-sh1-20-42",
+       "t": "low FODMAP 식이의 두 특징: [[삼투압]]을 높이고, 세균이 잘 [[발효]]시킨다",
+       "k": 1,
+       "n": "급분바. ㉔ 문족: 우유·유제품 섭취 권장(X). 교수님: 편식 유발해 너무 강력히 권하지는 않음."
+      },
+      {
+       "id": "cz-v2-sh1-20-43",
+       "t": "만성 변비의 두 종류는 [[서행성 변비]]와 [[배변장애]]",
+       "k": 1,
+       "n": "㉔ 문족 정답(예전 표현 출구폐쇄형 변비)."
+      },
+      {
+       "id": "cz-v2-sh1-20-44",
+       "t": "변비약 1순위는 [[팽창성]]·[[삼투성]] 완하제 (차전자피, PEG 등)",
+       "k": 1,
+       "n": "교수님: 중요한 것은 사용 순서! ㉔ 문족: 부피형성·삼투성 하제는 1·2차 실패 시에만(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-45",
+       "t": "변비약 2순위는 [[분비촉진제]](lubiprostone, linaclotide)와 운동촉진제 [[prucalopride]]",
+       "k": 1,
+       "n": "교수님: 1·2순위는 분류·대표 약제·작용 기전까지."
+      },
+      {
+       "id": "cz-v2-sh1-20-46",
+       "t": "자극성 완하제(비사코딜, 센나)는 [[tolerance]]가 생겨 1순위로 쓰면 안 되고 [[단기·구제 요법]]으로만",
+       "k": 1,
+       "n": "㉔ 문족: 자극성 하제가 일차 약제(X)."
+      },
+      {
+       "id": "cz-v2-sh1-20-47",
+       "t": "prucalopride의 기전은 선택적 [[5-HT4]] 작용, lubiprostone은 [[ClC-2]] 활성화",
+       "k": 0,
+       "n": "급분바 표."
+      }
+     ]
+    },
+    {
+     "id": "21",
+     "name": "21. 위식도의 종양성 질환_이상길",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-21-1",
+       "t": "식도암의 대표 증상은 [[진행성 삼킴곤란]]과 체중 감소",
+       "k": 1,
+       "n": "☎폰본바 王王. 문족 2016: 진행된 식도암의 가장 전형적인 증상 = 연하곤란."
+      },
+      {
+       "id": "cz-v2-sh1-21-2",
+       "t": "식도암은 식도 내강이 [[50% 이상]] 좁아져야 증상이 생긴다 → 조기에는 대개 [[무증상]]",
+       "k": 1,
+       "n": "☎폰본바. 강의록 60%. 문족 2021·2019 오답 선지 '20%만 좁아져도'."
+      },
+      {
+       "id": "cz-v2-sh1-21-3",
+       "t": "식도암 삼킴곤란은 [[고형식]]부터 생기고, 증상이 생기면 진행이 [[빠르다]]",
+       "k": 1,
+       "n": "녹음: 2주 기다리면 침도 못 삼키고 옴. 문족 2019 정답 '진행이 빠를 수 있다'."
+      },
+      {
+       "id": "cz-v2-sh1-21-4",
+       "t": "삼킴곤란·체중 감소 환자에게 가장 먼저 할 검사는 [[상부 내시경(+조직검사)]]",
+       "k": 1,
+       "n": "문족 2023·2018·2016 반복. 식도내압검사·조영술·CT는 오답."
+      },
+      {
+       "id": "cz-v2-sh1-21-5",
+       "t": "한국 식도암의 90% 이상은 [[편평상피암]], 원인은 [[술·담배]]",
+       "k": 1,
+       "n": "王王 ☎폰본바. 노인 남성, 상승작용. 뜨거운 차·잿물(lye)도."
+      },
+      {
+       "id": "cz-v2-sh1-21-6",
+       "t": "식도 중부·상부의 mass는 [[편평상피암]], 하부·EGJ의 mass는 [[선암]]",
+       "k": 1,
+       "n": "☎폰본바 '생기는 위치에 따라 어떤 암인지 알 수 있다'. 문족 2015: 중부 → smoking."
+      },
+      {
+       "id": "cz-v2-sh1-21-7",
+       "t": "식도 선암의 원인은 [[GERD → Barrett 식도]]",
+       "k": 1,
+       "n": "王王. 문족: Barrett 식도는 식도 선암의 전구 병변(O), 한국 흔한 식도암이 Barrett 관련(X)."
+      },
+      {
+       "id": "cz-v2-sh1-21-8",
+       "t": "조기 식도 편평상피암은 [[루골(Lugol) 염색]]에서 염색되지 않는 부위로 보인다",
+       "k": 1,
+       "n": "王. 암세포는 요오드를 흡수 못 함. 문족: 루골 염색만으로 암 확진 가능(X) → 조직검사."
+      },
+      {
+       "id": "cz-v2-sh1-21-9",
+       "t": "식도암이 빨리 퍼지고 예후가 나쁜 이유는 식도에 [[장막(serosa)]]이 없어서",
+       "k": 1,
+       "n": "녹음 강조. 문족 2016 O/X."
+      },
+      {
+       "id": "cz-v2-sh1-21-10",
+       "t": "식도암 병기: 침윤 깊이는 [[내시경 초음파(EUS)]], 원격 전이는 [[CT·PET-CT]]",
+       "k": 1,
+       "n": "문족 2023: EUS는 원격 전이 평가에 부적합."
+      },
+      {
+       "id": "cz-v2-sh1-21-11",
+       "t": "국소 진행 식도암의 치료는 [[다학제 치료]] (항암+방사선±수술)",
+       "k": 1,
+       "n": "王王. 초기는 내시경 절제·수술, 전이암은 항암. 문족 2017·2015."
+      },
+      {
+       "id": "cz-v2-sh1-21-12",
+       "t": "위에서 가장 흔한 용종은 [[과형성 용종(hyperplastic polyp)]] — 암이 되는 일은 드묾",
+       "k": 1,
+       "n": "王王. 문족 2020·2021. 교수님: 위 용종 문제는 과형성 용종이라고 생각하면 됨."
+      },
+      {
+       "id": "cz-v2-sh1-21-13",
+       "t": "과형성 용종은 대부분 그냥 두고, [[2.5cm 이상]]이거나 [[출혈]]하면 제거",
+       "k": 1,
+       "n": "녹음 (필족엔 회색). 문족 2021 정답 '크거나 출혈 경향이 있을 때 제거'."
+      },
+      {
+       "id": "cz-v2-sh1-21-14",
+       "t": "[[위저선 용종(fundic gland polyp)]]은 젊은 여성에 많고 암이 되지 않는다",
+       "k": 1,
+       "n": "녹음. 치료 안 함."
+      },
+      {
+       "id": "cz-v2-sh1-21-15",
+       "t": "위 용종·궤양 모두 다음 조치는 [[조직검사]]",
+       "k": 1,
+       "n": "문족 2024 41번 정답(7mm 붉은 용종 → 조직검사)."
+      },
+      {
+       "id": "cz-v2-sh1-21-16",
+       "t": "정상 위 점막 색은 [[신선한 연어 색]]",
+       "k": 1,
+       "n": "녹음. 필족 12쪽은 장상피화생 칸에 '연어 색'이라 잘못 적음."
+      },
+      {
+       "id": "cz-v2-sh1-21-17",
+       "t": "위암의 가장 강력한 전암 병변 두 가지는 [[만성 위축성 위염]]과 [[장상피화생]]",
+       "k": 1,
+       "n": "☎폰본바 王王."
+      },
+      {
+       "id": "cz-v2-sh1-21-18",
+       "t": "위축성 위염과 장상피화생을 일으키는 것은 [[H. pylori]]",
+       "k": 1,
+       "n": "☎폰본바 王王. 전정부에서 생겨 체부로 올라감."
+      },
+      {
+       "id": "cz-v2-sh1-21-19",
+       "t": "H. pylori를 제균하면 위암 발생이 [[30~50%]] 줄어 제균이 정식 치료가 됐다",
+       "k": 1,
+       "n": "녹음(한국 연구). 문족 2024: '제균은 위암 예방 효과가 미비하다'(X)."
+      },
+      {
+       "id": "cz-v2-sh1-21-20",
+       "t": "서양에서 중요한 유전성 위암 유전자는 [[CDH1(E-cadherin)]] — 한국에서는 드묾",
+       "k": 0,
+       "n": "녹음. 문족 2017 단답."
+      },
+      {
+       "id": "cz-v2-sh1-21-21",
+       "t": "국가 위암 검진은 [[40세]] 이상, 증상이 없어도 [[2년]]마다",
+       "k": 1,
+       "n": "王. 문족 2019: 조기위암이 늘어난 이유 = 검진."
+      },
+      {
+       "id": "cz-v2-sh1-21-22",
+       "t": "위암 확진은 내시경 소견만으로는 안 되고 반드시 [[조직검사]]",
+       "k": 1,
+       "n": "王王 급분바. 문족 2025 3점·2018·2013. 악성 의심이면 음성이어도 조직검사 반복."
+      },
+      {
+       "id": "cz-v2-sh1-21-23",
+       "t": "양성 궤양은 점막 주름이 중심으로 모이며 [[가늘어진다(tapering)]]",
+       "k": 1,
+       "n": "王 급분바. 재생상피가 대칭적."
+      },
+      {
+       "id": "cz-v2-sh1-21-24",
+       "t": "악성 궤양은 주름이 [[융합(fusion)]]되거나 끝이 [[곤봉처럼 굵어짐(clubbing)]]",
+       "k": 1,
+       "n": "王 급분바. 재생상피가 한쪽으로 치우침. 문족 2013·2017."
+      },
+      {
+       "id": "cz-v2-sh1-21-25",
+       "t": "위암 병기는 EUS와 [[복부 CT]]면 충분 (식도암처럼 PET-CT까지는 불필요)",
+       "k": 0,
+       "n": "녹음. 문족 2019: 작고 분화 좋은 위선암도 복부 CT로 병기 평가."
+      },
+      {
+       "id": "cz-v2-sh1-21-26",
+       "t": "[[Borrmann type 4 (경화성 위암)]]: 위가 딱딱해져 공기를 넣어도 안 늘어나고 트림만 함",
+       "k": 1,
+       "n": "王 유일하게 언급. 녹음: 평생 잊지 말라."
+      },
+      {
+       "id": "cz-v2-sh1-21-27",
+       "t": "경화성 위암은 [[젊은 여자]]에게 잘 생기고 [[반지세포암(signet ring cell)]]이 이런 양상",
+       "k": 1,
+       "n": "王. 문족 2022: 35세 여자 식후 구토·체중 감소, 비후성 소견 → 위암 감별."
+      },
+      {
+       "id": "cz-v2-sh1-21-28",
+       "t": "ESD 절대 적응증: 궤양 [[없음]], [[점막]]에 국한, 2cm 이하, 분화도 중등도 이상, 맥관 침윤 없음",
+       "k": 1,
+       "n": "王王 급분바. 가장 많이 나온 문족(2023×2, 2022, 2019, 2018). 나이는 기준 아님."
+      },
+      {
+       "id": "cz-v2-sh1-21-29",
+       "t": "ESD 크기 기준은 [[2cm 이하]], 분화도 기준은 [[중등도 이상(well~moderately)]]",
+       "k": 1,
+       "n": "王王. 3cm 궤양 있음 → 내시경 절제 원칙 X (문족)."
+      },
+      {
+       "id": "cz-v2-sh1-21-30",
+       "t": "위 MALT 림프종은 [[저등급 B세포]] 림프종이고 원인은 [[H. pylori]]",
+       "k": 1,
+       "n": "☎폰본바 王王."
+      },
+      {
+       "id": "cz-v2-sh1-21-31",
+       "t": "국소성 저등급 위 MALT 림프종의 첫 치료는 수술이 아니라 [[H. pylori 제균]]",
+       "k": 1,
+       "n": "☎폰본바 王王. 점막 국한이면 완전관해 90% 초과. 예전엔 수술."
+      },
+      {
+       "id": "cz-v2-sh1-21-32",
+       "t": "MALT 림프종은 내시경에서 위암·궤양·미란 등 여러 모양이라 [[조직검사]]로 확진",
+       "k": 1,
+       "n": "王 급분바. 강화평가: '대부분 진행성 위암과 비슷'(X)."
+      },
+      {
+       "id": "cz-v2-sh1-21-33",
+       "t": "GIST는 근육층의 [[카할 세포(interstitial cell of Cajal)]]에서 생긴다",
+       "k": 0,
+       "n": "녹음. 크기·유사분열 수로 악성 위험 평가(표는 외울 필요 없음). 문족 2017: 위에 호발(O)."
+      }
+     ]
+    },
+    {
+     "id": "22",
+     "name": "22. 악성 상부 위장관 질환에서의 외과적 접근_김유민",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-22-1",
+       "t": "조기위암은 [[점막하층]]까지, 진행위암은 [[근육층]] 이상까지 침범한 암",
+       "k": 1,
+       "n": "급분바. 위벽: 점막 → 점막하층 → 근육층 → 장막층."
+      },
+      {
+       "id": "cz-v2-sh1-22-2",
+       "t": "위암 T1a는 [[점막]], T1b는 [[점막하층]] 침범",
+       "k": 1,
+       "n": "급분바 TNM."
+      },
+      {
+       "id": "cz-v2-sh1-22-3",
+       "t": "위암 T3는 [[장막하층(subserosa)]], T4a는 [[장막층(serosa)]] 침범",
+       "k": 0,
+       "n": "급분바 TNM. T4b = 주위 장기(비장·횡행결장·간·췌장) 침범."
+      },
+      {
+       "id": "cz-v2-sh1-22-4",
+       "t": "위암 N1은 림프절 [[1~2개]], N2는 [[3~6개]] 전이",
+       "k": 1,
+       "n": "급분바. N3a 7~15개, N3b 16개 이상."
+      },
+      {
+       "id": "cz-v2-sh1-22-5",
+       "t": "원격 전이·복막 전이·[[복강 세척액 세포검사 양성]]이면 T·N과 상관없이 [[Ⅳ기]]",
+       "k": 1,
+       "n": "급분바 (문족 표현). 대동맥 주변 림프절 전이도 M1."
+      },
+      {
+       "id": "cz-v2-sh1-22-6",
+       "t": "T4b는 옆 장기를 직접 [[침범(invasion)]], M1은 떨어진 곳으로 [[전이(metastasis)]]",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-22-7",
+       "t": "조기위암·진행위암은 [[침범 깊이(T)]]로, 1기 암은 [[T·N·M]]을 다 알아야 정하는 최종 병기",
+       "k": 1,
+       "n": "급분바: 조기위암 vs 1기 암."
+      },
+      {
+       "id": "cz-v2-sh1-22-8",
+       "t": "cT1a, 분화형, 궤양 없음, 2cm 이하 → [[ESD]] (림프절은 안 뗌)",
+       "k": 1,
+       "n": "급분바 수술 원칙 표."
+      },
+      {
+       "id": "cz-v2-sh1-22-9",
+       "t": "ESD 적응증이 아닌 조기위암(cStage IA) → 위절제 + [[D1+]] 림프절 절제 (전이 의심되면 D2)",
+       "k": 1,
+       "n": "㉕ 문족. 복강경 위절제 권장."
+      },
+      {
+       "id": "cz-v2-sh1-22-10",
+       "t": "N1 이상 또는 T2 이상(cStage IB~III) → 위절제 + [[D2]] 림프절 절제",
+       "k": 1,
+       "n": "㉔㉕ 문족. T4b면 침범한 장기까지 en-bloc."
+      },
+      {
+       "id": "cz-v2-sh1-22-11",
+       "t": "위를 얼마나 절제할지는 병기가 아니라 암의 [[위치]]로 정한다",
+       "k": 1,
+       "n": "급분바. 26장: 전절제인가, 부분절제라면 위인가 아래인가."
+      },
+      {
+       "id": "cz-v2-sh1-22-12",
+       "t": "위 중부 조기암 → [[유문보존 위절제(PPG)]] 또는 원위부 아전절제",
+       "k": 1,
+       "n": "㉔㉕ 문족. 유문보존은 동양에서 유일하게 하는 제한 수술."
+      },
+      {
+       "id": "cz-v2-sh1-22-13",
+       "t": "위 하부(전정부) 암 → [[원위부 아전절제]]",
+       "k": 1,
+       "n": "㉕ 문족."
+      },
+      {
+       "id": "cz-v2-sh1-22-14",
+       "t": "위 상부 진행암 → [[위전절제]]",
+       "k": 1,
+       "n": "㉔㉕ 문족. 상부 조기암은 근위부 절제 또는 전절제."
+      },
+      {
+       "id": "cz-v2-sh1-22-15",
+       "t": "위벽 전체를 침범한 Borrmann type 4 → 위치와 상관없이 [[위전절제]]",
+       "k": 1,
+       "n": "급분바. 문족 표현: diffuse infiltrative lesion."
+      },
+      {
+       "id": "cz-v2-sh1-22-16",
+       "t": "진단적 복강경에서 결절 동결절편이 선암(복막 전이) → 수술을 멈추고 [[항암]] 시작",
+       "k": 1,
+       "n": "㉔ 문족. 결절이 없거나 섬유화면 원래대로 근치 수술(㉕)."
+      },
+      {
+       "id": "cz-v2-sh1-22-17",
+       "t": "Ⅳ기는 언제 알게 되든 [[고식적 항암]] ± 방사선",
+       "k": 1,
+       "n": "급분바. 완치보다 생명 연장이 목적."
+      },
+      {
+       "id": "cz-v2-sh1-22-18",
+       "t": "위암 절제연은 암에서 [[2~6cm]]",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-22-19",
+       "t": "원위부 절제 후 남은 위와 십이지장을 바로 잇는 것은 [[Billroth Ⅰ (gastroduodenostomy)]]",
+       "k": 1,
+       "n": "급분바. 가장 단순, 식사 진행 제일 좋음."
+      },
+      {
+       "id": "cz-v2-sh1-22-20",
+       "t": "Billroth Ⅱ (loop gastrojejunostomy)는 [[담즙 역류]]에 매우 취약 → 이를 막으려고 바꾼 것이 [[Roux-en-Y]]",
+       "k": 1,
+       "n": "급분바. 소화관 재건은 아직 출제 X지만 출제 가능 범위."
+      },
+      {
+       "id": "cz-v2-sh1-22-21",
+       "t": "근위부 절제 후 재건은 [[double tract]]·[[double flap]], 전절제 후는 Roux-en-Y 식도공장문합",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-22-22",
+       "t": "조기 덤핑은 식후 [[15~30분]], 후기 덤핑은 식후 [[90분~3시간]]",
+       "k": 1,
+       "n": "급분바. 조기 = 위장관+혈관운동 증상, 후기 = 저혈당 증상."
+      },
+      {
+       "id": "cz-v2-sh1-22-23",
+       "t": "후기 덤핑의 기전은 혈당 급상승 → 인슐린 과다 → [[반동성 저혈당]]",
+       "k": 1,
+       "n": "급분바. 대부분 식사 조절로 좋아짐."
+      },
+      {
+       "id": "cz-v2-sh1-22-24",
+       "t": "미주신경이 잘리면 [[설사]]와 [[위 배출 지연(gastric atony)]]",
+       "k": 0,
+       "n": "급분바 수술 후 합병증."
+      }
+     ]
+    },
+    {
+     "id": "23",
+     "name": "23. 양성 소화관 질환에서의 외과적 접근_김형일",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-23-1",
+       "t": "철은 주로 [[duodenum(십이지장)]]에서 흡수된다",
+       "k": 1,
+       "n": "王王王 강조점 #1 (2021~2023 매년 문족)."
+      },
+      {
+       "id": "cz-v2-sh1-23-2",
+       "t": "위암 수술 후 문합 중 철 결핍 빈혈 위험이 가장 작은 것은 음식이 duodenum을 지나는 [[gastroduodenostomy]]",
+       "k": 1,
+       "n": "王王王 강조점 #1 문족 정답 ①. 오답: gastrojejunostomy, Roux-en Y, esophagojejunostomy."
+      },
+      {
+       "id": "cz-v2-sh1-23-3",
+       "t": "vitamin B12는 intrinsic factor와 결합해 [[terminal ileum]]에서 흡수된다",
+       "k": 0,
+       "n": "족장: B12 결핍을 묻는다면 위 전절제(esophagojejunostomy)가 답."
+      },
+      {
+       "id": "cz-v2-sh1-23-4",
+       "t": "교액성 장폐쇄는 장이 막히고 [[혈류]]도 막힌 상태",
+       "k": 1,
+       "n": "강조점 #2. 단순 기계적 장폐쇄는 혈류 유지. 복막염 전에 빠른 수술이 필요."
+      },
+      {
+       "id": "cz-v2-sh1-23-5",
+       "t": "교액성 장폐쇄를 시사하는 활력·혈액 소견: [[fever]], [[tachycardia]], leukocytosis",
+       "k": 1,
+       "n": "王王王 강조점 #2 (2021~2025 매년 문족). 4가지 = fever, tachycardia, leukocytosis, localized tenderness."
+      },
+      {
+       "id": "cz-v2-sh1-23-6",
+       "t": "교액성 장폐쇄를 시사하는 진찰 소견: [[localized tenderness]] (한 곳의 지속적 통증)",
+       "k": 1,
+       "n": "王王王 강조점 #2. 문족: 배꼽 우측 3cm 지점 지속 통증."
+      },
+      {
+       "id": "cz-v2-sh1-23-7",
+       "t": "교액성 장폐쇄 소견이 아닌 것(문족 정답)은 '[[6시간 이상 진행된 장폐색 증상]]'",
+       "k": 1,
+       "n": "강조점 #2 문족 정답 ②. 증상 지속 시간은 교액 소견이 아님."
+      },
+      {
+       "id": "cz-v2-sh1-23-8",
+       "t": "장-피부 누공이 자연 치유되기 어려운 요인: [[FRIENDS]]",
+       "k": 1,
+       "n": "강조점 #3 (2023 문족 = 수업 퀴즈 그대로). Foreign body, Radiation, IBD/Infection, Epithelialization, Neoplasm, Distal obstruction, Short tract <2cm."
+      },
+      {
+       "id": "cz-v2-sh1-23-9",
+       "t": "장-피부 누공에서 치유가 잘 되는 조건은 [[수술 후 생긴 것(surgical etiology)]]",
+       "k": 1,
+       "n": "강조점 #3 문족 정답 ③. 오답: short tract(<2cm), 방사선·암, high output(>500ml/일), distal obstruction."
+      }
+     ]
+    },
+    {
+     "id": "24",
+     "name": "24. 상부 소화관의 운동_김기우",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-24-1",
+       "t": "맛·냄새·씹기 자극은 [[medulla의 salivary center]]를 거쳐 [[부교감신경]]을 활성화해 침 분비를 늘린다",
+       "k": 1,
+       "n": "교수님: 침샘 자극은 무조건 한 문제. 신경 말단에서 ACh 분비."
+      },
+      {
+       "id": "cz-v2-sh1-24-2",
+       "t": "[[facial nerve (CN VII)]] → [[submandibular ganglion]] → submandibular gland·sublingual gland",
+       "k": 1,
+       "n": "강조점. 치대 2025: 그림 빈칸(submandibular gland) 출제."
+      },
+      {
+       "id": "cz-v2-sh1-24-3",
+       "t": "[[glossopharyngeal nerve (CN IX)]] → [[otic ganglion]] → parotid gland",
+       "k": 1,
+       "n": "강조점. 치대 2025: 그림 빈칸(parotid gland) 출제."
+      },
+      {
+       "id": "cz-v2-sh1-24-4",
+       "t": "침샘 신경 말단에서 분비되는 신경전달물질은 [[ACh]]",
+       "k": 1,
+       "n": "치대 2025 그림 빈칸에 ACh."
+      },
+      {
+       "id": "cz-v2-sh1-24-5",
+       "t": "위 내용물의 [[양(volume)]]이 늘면 위 배출이 빨라진다",
+       "k": 1,
+       "n": "강조점. 교수님: 어떤 것이 어떻게 조절하는지 제가 문제를 다 냈다."
+      },
+      {
+       "id": "cz-v2-sh1-24-6",
+       "t": "[[고삼투압]]이나 [[낮은 pH]]의 chyme은 위 배출을 느리게 한다",
+       "k": 1,
+       "n": "강조점."
+      },
+      {
+       "id": "cz-v2-sh1-24-7",
+       "t": "위 배출 속도: [[탄수화물]] > 단백질 > [[지질]]",
+       "k": 1,
+       "n": "강조점. liquid가 solid보다 빠름."
+      },
+      {
+       "id": "cz-v2-sh1-24-8",
+       "t": "duodenum이 늘어나면 [[enterogastric reflex]]로 위 배출이 억제된다",
+       "k": 1,
+       "n": "강조점."
+      },
+      {
+       "id": "cz-v2-sh1-24-9",
+       "t": "위 배출을 억제하는 호르몬: somatostatin, [[CCK]], [[secretin]], GIP, VIP (+GLP-1)",
+       "k": 1,
+       "n": "강조점. 25번(위액 분비) 교수님 답변: CCK는 위산 분비와 위 배출 모두 억제."
+      },
+      {
+       "id": "cz-v2-sh1-24-10",
+       "t": "위 배출을 촉진하는 것: [[gastrin]], ACh, [[motilin]]",
+       "k": 1,
+       "n": "강조점."
+      },
+      {
+       "id": "cz-v2-sh1-24-11",
+       "t": "위 평활근을 탈분극(활성화)시키는 것: 위벽 확장, ACh, [[부교감신경]], gastrin / 과분극(억제)시키는 것: NE, [[교감신경]]",
+       "k": 1,
+       "n": "강조점 (regulation factor 주의 깊게)."
+      },
+      {
+       "id": "cz-v2-sh1-24-12",
+       "t": "소장 운동을 촉진하는 호르몬은 gastrin, [[motilin]] / 억제하는 호르몬은 CCK, [[secretin]], glucagon, peptide YY",
+       "k": 1,
+       "n": "강조점. vomiting은 보지 말라고 하심, 하부 소화관 운동은 2차에 출제."
+      }
+     ]
+    },
+    {
+     "id": "25",
+     "name": "25. 위액 분비_김기우",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-25-1",
+       "t": "parietal cell이 분비하는 것은 [[HCl(H⁺)]]과 [[intrinsic factor]]",
+       "k": 1,
+       "n": "王王王 강조점 1."
+      },
+      {
+       "id": "cz-v2-sh1-25-2",
+       "t": "pepsinogen을 분비하는 세포는 [[chief cell]]",
+       "k": 1,
+       "n": "王王王 강조점 1."
+      },
+      {
+       "id": "cz-v2-sh1-25-3",
+       "t": "histamine을 분비하는 세포는 [[ECL cell]]",
+       "k": 1,
+       "n": "王王王 강조점 1. 치대 2025 단답: ECL cell이 분비해 산 분비에 기여하는 물질 = 히스타민."
+      },
+      {
+       "id": "cz-v2-sh1-25-4",
+       "t": "gastrin을 분비하는 세포는 [[G cell]], somatostatin을 분비하는 세포는 [[D cell]]",
+       "k": 1,
+       "n": "王王王 강조점 1."
+      },
+      {
+       "id": "cz-v2-sh1-25-5",
+       "t": "somatostatin의 작용은 [[pan-inhibitory]] (G cell·parietal cell 모두 억제)",
+       "k": 1,
+       "n": "교) somatostatin이다 하면 inhibitory라고 생각하시면 돼요."
+      },
+      {
+       "id": "cz-v2-sh1-25-6",
+       "t": "mucous cell은 [[mucus]]와 [[bicarbonate]]를 분비해 상피를 보호",
+       "k": 1,
+       "n": "王王王 강조점 1."
+      },
+      {
+       "id": "cz-v2-sh1-25-7",
+       "t": "gastrin은 [[CCK-B receptor]] → [[Gq → Ca²⁺]]로 parietal cell을 활성화 (endocrine)",
+       "k": 1,
+       "n": "王王王 강조점 2. 치대 2025 서술형: 호르몬성 인자·수용체·전달 기작. ECL cell도 자극."
+      },
+      {
+       "id": "cz-v2-sh1-25-8",
+       "t": "histamine은 [[H2 receptor]] → [[cAMP → PKA]]로 parietal cell을 활성화 (paracrine)",
+       "k": 1,
+       "n": "王王王 강조점 2."
+      },
+      {
+       "id": "cz-v2-sh1-25-9",
+       "t": "acetylcholine은 [[M3 receptor]] → [[Gq → Ca²⁺]]로 parietal cell을 활성화 (neurocrine)",
+       "k": 1,
+       "n": "王王王 강조점 2. 치대 2025: 수용체 isotype(M3)까지 정확히."
+      },
+      {
+       "id": "cz-v2-sh1-25-10",
+       "t": "세 자극이 모두 활성화하는 최종 펌프는 [[H⁺/K⁺-ATPase (proton pump)]]",
+       "k": 1,
+       "n": "王王王 강조점 2."
+      },
+      {
+       "id": "cz-v2-sh1-25-11",
+       "t": "prostaglandin은 위산 분비를 [[억제]]해 점막을 보호 → NSAID를 쓰면 궤양 위험이 올라 [[PPI·제산제]]를 같이 씀",
+       "k": 1,
+       "n": "王王王 강조점 2 (억제 인자)."
+      },
+      {
+       "id": "cz-v2-sh1-25-12",
+       "t": "위산 분비를 억제하는 장 호르몬은 [[CCK]], [[secretin]], GIP",
+       "k": 1,
+       "n": "王王王 강조점 2. 교수님 답변: CCK는 위산 분비와 위 배출 모두 억제. EGF·TGF-α도 억제."
+      },
+      {
+       "id": "cz-v2-sh1-25-13",
+       "t": "pepsinogen을 pepsin으로 바꾸는 물질은 [[HCl(낮은 pH)]]",
+       "k": 1,
+       "n": "王王王 강조점 3. 치대 2025 단답 정답."
+      },
+      {
+       "id": "cz-v2-sh1-25-14",
+       "t": "pepsinogen 분비·활성화를 높이는 조절자는 위산 분비 인자와 같은 [[ACh]]와 [[gastrin]]",
+       "k": 1,
+       "n": "王王王 강조점 3. 낮은 pH도 local neural reflex로 자극."
+      },
+      {
+       "id": "cz-v2-sh1-25-15",
+       "t": "pepsin은 중성·알칼리 pH에서 억제돼 [[duodenum]]에서는 작용하지 못한다",
+       "k": 1,
+       "n": "王王王 강조점 3."
+      },
+      {
+       "id": "cz-v2-sh1-25-16",
+       "t": "bicarbonate의 가장 중요한 역할은 [[mucus layer를 알칼리성]]으로 유지하는 것",
+       "k": 1,
+       "n": "王. 교) 이게 가장 중요한 거고. 세포 표면 pH ~7."
+      }
+     ]
+    },
+    {
+     "id": "26",
+     "name": "26. 흡수 및 소화 장애_천재영",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-26-1",
+       "t": "medium-chain 지방산은 탄소 [[8~12개]], short-chain은 [[8개 미만]] (long-chain은 12개 초과)",
+       "k": 1,
+       "n": "★강조점 1 (표 전체가 王). 문족 2025·2024: 탄소 수로 MCFA·SCFA 구분."
+      },
+      {
+       "id": "cz-v2-sh1-26-2",
+       "t": "short-chain 지방산은 음식에 [[없고]], [[장내 세균]]이 만든다",
+       "k": 1,
+       "n": "★강조점 1. 2025 문족 정답: '소화 과정에서 장내 세균에 의한 분해가 필요함'."
+      },
+      {
+       "id": "cz-v2-sh1-26-3",
+       "t": "short-chain 지방산이 흡수되는 곳은 [[대장(colon)]]",
+       "k": 1,
+       "n": "★강조점 1. 세균이 주로 대장에 살기 때문. 문족 오답 선지 '소장에서 흡수'."
+      },
+      {
+       "id": "cz-v2-sh1-26-4",
+       "t": "대변에서 상당량 검출되는 지방산은 [[short-chain]], 전혀 검출되지 않는 것은 [[medium-chain]]",
+       "k": 1,
+       "n": "★강조점 1. long-chain은 minimal."
+      },
+      {
+       "id": "cz-v2-sh1-26-5",
+       "t": "pancreatic lipolysis와 micelle 형성이 필요한 지방산은 [[long-chain]]뿐",
+       "k": 1,
+       "n": "★강조점 1. 문족 2024: MCFA에 맞지 않는 것 = '췌장액에 의한 분해가 필요함'."
+      },
+      {
+       "id": "cz-v2-sh1-26-6",
+       "t": "지질대사 없이 다 흡수돼 지질 흡수장애 환자에게 영양 공급용으로 주는 것은 [[medium-chain]] 지방산",
+       "k": 1,
+       "n": "★강조점 1."
+      },
+      {
+       "id": "cz-v2-sh1-26-7",
+       "t": "short-chain 지방산의 임상적 의미는 [[항염·염증 조절]] 효과",
+       "k": 1,
+       "n": "★강조점 1. 치료·예방에 활용(연구 중)."
+      },
+      {
+       "id": "cz-v2-sh1-26-8",
+       "t": "Schilling test는 [[cobalamin(B12)]] 흡수 장애가 있는지, 왜 있는지 감별하는 검사",
+       "k": 1,
+       "n": "★강조점 2 (시험 단골)."
+      },
+      {
+       "id": "cz-v2-sh1-26-9",
+       "t": "Schilling test: 표지 cobalamin 경구 → 1시간 뒤 비표지 cobalamin 근주 → [[24시간 소변]]의 표지 cobalamin 측정",
+       "k": 0,
+       "n": "비표지 근주는 결합 단백질을 미리 포화시키려고. 소변 배설 감소 = 흡수 장애."
+      },
+      {
+       "id": "cz-v2-sh1-26-10",
+       "t": "Schilling test에서 [[intrinsic factor]]를 주면 교정되는 질환은 [[악성 빈혈(pernicious anemia)]]",
+       "k": 1,
+       "n": "★ 만년 문족 (2025 정답 ⑤ 악성 빈혈)."
+      },
+      {
+       "id": "cz-v2-sh1-26-11",
+       "t": "Schilling test에서 췌장 효소를 주면 교정 → [[만성 췌장염]], 항생제 5일 주면 교정 → [[소장 세균 과증식]]",
+       "k": 1,
+       "n": "★강조점 2. 교정되는 것이 곧 원인."
+      },
+      {
+       "id": "cz-v2-sh1-26-12",
+       "t": "Schilling test에서 무엇을 줘도 교정되지 않으면 [[말단 회장 질환(ileal disease)]]",
+       "k": 1,
+       "n": "★강조점 2. 흡수 부위 자체 문제."
+      },
+      {
+       "id": "cz-v2-sh1-26-13",
+       "t": "SIBO의 기전: 소장 [[정체·운동 저하]]와 [[위산 분비 저하]]",
+       "k": 1,
+       "n": "★강조점 3. 원인 예: 수술 후 정체(Billroth II), 게실, 당뇨, 장기간 PPI."
+      },
+      {
+       "id": "cz-v2-sh1-26-14",
+       "t": "SIBO에서 결핍되는 것은 [[비타민 B12]]와 [[지용성 비타민]]",
+       "k": 1,
+       "n": "★강조점 3. 증상: 복부 불편감·팽만, 설사, 지방변, 체중 감소."
+      },
+      {
+       "id": "cz-v2-sh1-26-15",
+       "t": "SIBO 진단: 배양이 gold standard지만 임상에선 [[호기 검사(glucose·lactulose breath test)]]",
+       "k": 1,
+       "n": "★강조점 3. 교수님: 위산 억제제 장기 복용 + 팽만·설사면 이 검사를 꼭 기억."
+      },
+      {
+       "id": "cz-v2-sh1-26-16",
+       "t": "SIBO 호기 검사에서 대장 peak 전에 한 번 더 나타나는 것은 [[double(dual) peak]]",
+       "k": 1,
+       "n": "★강조점 3. 소장에 세균이 과다 증식했다는 뜻."
+      },
+      {
+       "id": "cz-v2-sh1-26-17",
+       "t": "SIBO 치료는 원인 교정과 [[항생제]]",
+       "k": 1,
+       "n": "★강조점 3."
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "name": "27. 상부 위장관 병리(1)_김현기",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-27-1",
+       "t": "식도에서 이물질이 잘 걸리는 3곳: cricoid cartilage, [[기관 분지(tracheal bifurcation)]], [[횡격막 식도열공]]",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-2",
+       "t": "식도는 [[serosa]]가 없어 염증·종양이 잘 퍼진다",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-3",
+       "t": "가장 흔한 식도 폐쇄증은 [[원위부 기관식도루]]를 동반한 식도 폐쇄",
+       "k": 1,
+       "n": "급분바 선천 기형."
+      },
+      {
+       "id": "cz-v2-sh1-27-4",
+       "t": "achalasia triad: LES tone [[증가]], 불완전한 LES 이완, [[연동운동 소실]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-5",
+       "t": "Mallory-Weiss 증후군은 과음 후 구토로 식도 [[원위부]]에 열상",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-6",
+       "t": "식도 정맥류 기전: 간경변 → [[문맥압 항진]] → 곁순환 → 정맥류",
+       "k": 1,
+       "n": "급분바. 간경변 환자의 50%가 정맥류 대량 출혈로 사망."
+      },
+      {
+       "id": "cz-v2-sh1-27-7",
+       "t": "약물(pill-induced) 식도염의 가장 흔한 원인은 [[NSAIDs(aspirin)]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-8",
+       "t": "면역억제제 복용 환자의 식도 미란 → [[herpes 식도염]]: [[다핵·jigsaw puzzle 모양]] 핵",
+       "k": 1,
+       "n": "문족 2025 7번 (신장이식 후 면역억제제)."
+      },
+      {
+       "id": "cz-v2-sh1-27-9",
+       "t": "미국에서 가장 흔한 위장관 질환은 [[역류성 식도염(GERD)]] — 문족 키워드 '식후 속쓰림'",
+       "k": 1,
+       "n": "급분바. 위험인자: 과식, 음주, 흡연, 기름진 음식, 짧은 식후 수면 간격, 복압 증가, hiatal hernia."
+      },
+      {
+       "id": "cz-v2-sh1-27-10",
+       "t": "역류성 식도염 조직: 염증세포 침윤과 [[basal zone widening]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-11",
+       "t": "Barrett 식도 진단에 필요한 조직 소견은 [[goblet cell(장상피화생)]]",
+       "k": 1,
+       "n": "급분바. 하부 식도 squamous → columnar. 선암 연관."
+      },
+      {
+       "id": "cz-v2-sh1-27-12",
+       "t": "젊은 남자, 알레르기·천식 병력, 연하곤란 → [[호산구성 식도염]] (고배율에서 호산구 [[20개 이상]])",
+       "k": 1,
+       "n": "문족 2025 6번 정답: eosinophilic microabscess, basal cell hyperplasia. 내시경 bamboo 모양."
+      },
+      {
+       "id": "cz-v2-sh1-27-13",
+       "t": "식도 선암은 [[Barrett 식도]]가 선행하고 [[하부 식도·GE junction]]에 흔함",
+       "k": 1,
+       "n": "급분바. 미국 식도암의 50%."
+      },
+      {
+       "id": "cz-v2-sh1-27-14",
+       "t": "한국 식도암의 대부분은 [[편평상피세포암]] — [[식도 중간 1/3]]에 호발",
+       "k": 1,
+       "n": "문족 2025 8번 정답 ③. 문족의 식도 mass는 웬만하면 SCC."
+      },
+      {
+       "id": "cz-v2-sh1-27-15",
+       "t": "식도 편평상피세포암 위험인자: [[술·담배]], 뜨거운 음식·음료, 유전",
+       "k": 1,
+       "n": "급분바. 과식·기름진 음식·hiatal hernia는 역류성 식도염(선암) 위험인자 — 오답."
+      },
+      {
+       "id": "cz-v2-sh1-27-16",
+       "t": "식도 SCC의 분화도(grade)는 [[keratin]]이 나타난 정도로 나눈다",
+       "k": 0,
+       "n": "급분바 조직 사진."
+      },
+      {
+       "id": "cz-v2-sh1-27-17",
+       "t": "위암·위염·H. pylori 감염이 가장 잘 생기는 위 부위는 [[angle(위각)]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-18",
+       "t": "급성 위염은 주로 [[중환자]]에서 생기고 [[호중구]]가 침윤",
+       "k": 1,
+       "n": "급분바. 원인: NSAIDs, 과음, 심한 스트레스, 허혈·쇼크."
+      },
+      {
+       "id": "cz-v2-sh1-27-19",
+       "t": "stress ulcer 기전: [[systemic acidosis]]로 세포 내 pH↓ + 스트레스 혈관수축 → 점막 [[hypoxia]]",
+       "k": 1,
+       "n": "급분바. 교통사고·추락·다발성 골절 중환자의 다발성 궤양."
+      },
+      {
+       "id": "cz-v2-sh1-27-20",
+       "t": "전신 화상 환자의 급성 궤양은 [[Curling's ulcer]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-21",
+       "t": "뇌출혈·개두술 후 급성 궤양은 [[Cushing's ulcer]] — 뇌압↑ → [[미주신경핵]] 직접 자극 → 위산↑",
+       "k": 1,
+       "n": "문족 2025 9번 정답 ⑤."
+      },
+      {
+       "id": "cz-v2-sh1-27-22",
+       "t": "NSAID 궤양 기전: [[COX]] 억제 → [[prostaglandin]] 감소 → 위벽 보호 약화",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-27-23",
+       "t": "만성 위염 중 중요한 것은 [[H. pylori 위염]] (나머지는 그다지 중요하지 않음)",
+       "k": 1,
+       "n": "급분바. reactive gastropathy = 담즙 역류."
+      },
+      {
+       "id": "cz-v2-sh1-27-24",
+       "t": "H. pylori 감염자의 [[80%]]는 무증상, 10~20%는 소화성 궤양, 1% 미만은 위암",
+       "k": 1,
+       "n": "급분바. 전파는 oral-oral."
+      },
+      {
+       "id": "cz-v2-sh1-27-25",
+       "t": "H. pylori가 일으키는 병: 만성 위염(→장상피화생→위축), 위·십이지장 궤양, [[위선암]], [[MALToma]]",
+       "k": 1,
+       "n": "문족 2025 11번: H. pylori와 관련 없는 것 = GIST."
+      }
+     ]
+    },
+    {
+     "id": "29",
+     "name": "29. 상부위장관 질환의 영상진단_임준석",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-29-1",
+       "t": "점막을 가장 잘 보는 방법은 [[이중조영(double contrast)]]과 [[점막이완검사(mucosal relief)]]를 함께 쓰는 것",
+       "k": 1,
+       "n": "王. 18기출."
+      },
+      {
+       "id": "cz-v2-sh1-29-2",
+       "t": "식도는 갈비뼈에 둘러싸여 있어 [[압박 검사(compression study)]]를 쓸 수 없다",
+       "k": 1,
+       "n": "王. 문족 선지 '식도 조영술에 compression study 필수'(X) — 올해 강조점."
+      },
+      {
+       "id": "cz-v2-sh1-29-3",
+       "t": "위장관 천공이 의심되면 바륨 대신 [[수용성 조영제(gastrografin)]]를 쓴다",
+       "k": 1,
+       "n": "王 Barium vs water soluble. 바륨은 천공 시 금기. 점막 변화 관찰은 바륨."
+      },
+      {
+       "id": "cz-v2-sh1-29-4",
+       "t": "역류성 식도염에서 위산 역류로 식도 하부가 columnar 상피로 바뀌면 [[선암]]이 생긴다",
+       "k": 1,
+       "n": "王王 Reflux esophagitis. 하부 1/3 = 선암, 상부 = 편평상피암."
+      },
+      {
+       "id": "cz-v2-sh1-29-5",
+       "t": "diffuse esophageal spasm의 식도조영술 소견은 [[corkscrew appearance]]",
+       "k": 1,
+       "n": "문족(1차 182번). tertiary contraction = 비정상적 비협조 수축."
+      },
+      {
+       "id": "cz-v2-sh1-29-6",
+       "t": "식도의 가장 흔한 양성 종양은 [[leiomyoma]] — 점막은 깨끗한데 살짝 솟은 [[상피하 종양]] 모양",
+       "k": 1,
+       "n": "王王王 25·18기출. 교) 이불 밑에 공을 놓은 것처럼."
+      },
+      {
+       "id": "cz-v2-sh1-29-7",
+       "t": "식도암이 주변으로 빨리 퍼지는 이유는 식도에 [[serosa(장막)]]가 없어서",
+       "k": 1,
+       "n": "Anatomical feature. CT에서 aorta·trachea 침범이면 수술 어려움."
+      },
+      {
+       "id": "cz-v2-sh1-29-8",
+       "t": "위궤양 천공의 free air는 [[서서 찍은(upright) 사진]]에서 [[횡격막 아래]]에 모여 잘 보인다",
+       "k": 1,
+       "n": "王王 25기출. 교) upright abdomen이 중요한 이유. pneumoperitoneum."
+      },
+      {
+       "id": "cz-v2-sh1-29-9",
+       "t": "상부위장관 출혈에서 CT로 본 가장 확실한 출혈 증거는 [[조영제 혈관 밖 유출(extravasation)]]",
+       "k": 1,
+       "n": "王王 강조점 한 줄 정리. 교) 중요해서 넣었어요."
+      },
+      {
+       "id": "cz-v2-sh1-29-10",
+       "t": "양성 궤양은 mass 없이 위 윤곽 [[바깥]]으로 튀어나오고, 악성 궤양은 mass 가운데 윤곽 [[안쪽]]에 생긴다",
+       "k": 1,
+       "n": "王. 문족 87번: 주변 융기 종양 + 내부 악성 궤양 = 정답."
+      },
+      {
+       "id": "cz-v2-sh1-29-11",
+       "t": "양성 궤양의 주름은 궤양 쪽으로 [[모인다(converging folds)]]",
+       "k": 1,
+       "n": "문족 정답 ⑤. Hampton's line·collar button sign도 양성 소견(올해는 넘어감)."
+      },
+      {
+       "id": "cz-v2-sh1-29-12",
+       "t": "림프절 전이와 상관없이 [[점막하층]]까지 침윤하면 조기위암, 그 이상이면 진행위암",
+       "k": 1,
+       "n": "王."
+      },
+      {
+       "id": "cz-v2-sh1-29-13",
+       "t": "위암 수술 전 CT의 역할은 진단이 아니라 [[수술 가능성(operability)]]과 [[병기 결정]]",
+       "k": 1,
+       "n": "王王王 25·18기출. 기출 선지: 병기 결정은 MRI로 주로(X)."
+      },
+      {
+       "id": "cz-v2-sh1-29-14",
+       "t": "위암이 [[대동맥 뒤]] 림프절까지 전이되면 수술 불가 → 항암",
+       "k": 1,
+       "n": "王王王 25기출 (lymph node metastasis)."
+      },
+      {
+       "id": "cz-v2-sh1-29-15",
+       "t": "위암의 [[간 전이]](혈행성 전이)가 보이면 수술 불가 → 항암",
+       "k": 1,
+       "n": "王王 25기출."
+      },
+      {
+       "id": "cz-v2-sh1-29-16",
+       "t": "위암 복막 파종(carcinomatosis)에서는 [[복수]]가 생기고 [[복막이 두꺼워진다]]",
+       "k": 1,
+       "n": "王王 25기출. rectovesical space로도 전이."
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "name": "30. CBL(상부장관)_박준철",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-30-1",
+       "t": "혈변 환자에서 원인 감별을 위해 가장 먼저 할 진찰은 [[직장수지검사(rectal exam)]]",
+       "k": 1,
+       "n": "형성평가 Q1. 교수님: 형성평가·스마일 슬라이드 위주, 암기 위주 시험 안 냄."
+      },
+      {
+       "id": "cz-v2-sh1-30-2",
+       "t": "직장수지검사에서 [[흑색변(melena)]]이 나오면 [[상부위장관]] 출혈을 의심",
+       "k": 1,
+       "n": "형성평가 Q2. Case 1: BUN 상승·Cr 정상도 출혈 소견."
+      },
+      {
+       "id": "cz-v2-sh1-30-3",
+       "t": "선홍색 혈변 + 혈압 70/50, 맥박 140(쇼크) → 가장 먼저 [[굵은 바늘로 정맥로 확보]]",
+       "k": 1,
+       "n": "형성평가 Q3. 추가 검사·비위관·응급내시경보다 먼저."
+      },
+      {
+       "id": "cz-v2-sh1-30-4",
+       "t": "쇼크 동반 혈변이라도 그다음 가장 먼저 할 검사는 [[상부위장관 내시경]]",
+       "k": 1,
+       "n": "형성평가 Q4. 대량 상부 출혈은 선홍색 혈변으로도 옴."
+      },
+      {
+       "id": "cz-v2-sh1-30-5",
+       "t": "상부·대장 내시경에서 출혈 원인을 못 찾았는데 저혈압·중증 출혈이 계속되면 [[혈관조영술]]",
+       "k": 1,
+       "n": "㉕㉔ 문족 정답."
+      },
+      {
+       "id": "cz-v2-sh1-30-6",
+       "t": "식후 악화되는 속쓰림 + 흡연 + 흑색변 → 가장 의심되는 것은 [[위궤양 출혈]]",
+       "k": 1,
+       "n": "형성평가 Q5. 식후 악화 = 위궤양의 전형적 특징."
+      },
+      {
+       "id": "cz-v2-sh1-30-7",
+       "t": "위궤양 출혈 내시경 뒤 우선 치료는 [[PPI(산분비억제제)]]",
+       "k": 1,
+       "n": "㉓ 문족 정답."
+      },
+      {
+       "id": "cz-v2-sh1-30-8",
+       "t": "스테로이드 장기 복용 중 검은 피 토혈 → 진단은 [[약제 연관 소화성 위궤양]]",
+       "k": 1,
+       "n": "형성평가 Q6. 감별은 상부 내시경 ㉔㉓."
+      },
+      {
+       "id": "cz-v2-sh1-30-9",
+       "t": "형성평가 Q7의 내시경 지혈술 종류는 [[clipping (hemoclip)]]",
+       "k": 1,
+       "n": "내시경 지혈술: clipping, coagulation."
+      },
+      {
+       "id": "cz-v2-sh1-30-10",
+       "t": "과음 후 심한 구토 뒤 토혈 → [[Mallory-Weiss 증후군]] (위식도 접합부 점막 찢어짐)",
+       "k": 1,
+       "n": "㉕㉔㉓ 문족."
+      },
+      {
+       "id": "cz-v2-sh1-30-11",
+       "t": "소화성 궤양 원인 제거: [[H. pylori 제균]], 금연, [[NSAIDs 중단]]",
+       "k": 1,
+       "n": "급분바 Treatment of PUD."
+      },
+      {
+       "id": "cz-v2-sh1-30-12",
+       "t": "모든 위궤양은 [[조직검사]]로 위암을 배제하고, 6~8주 치료 뒤 내시경으로 [[healing]]을 확인",
+       "k": 1,
+       "n": "교) 원인 제거 + 반드시 조직검사."
+      },
+      {
+       "id": "cz-v2-sh1-30-13",
+       "t": "NSAID는 [[prostaglandin]] 합성을 억제해 mucus·bicarbonate 같은 [[방어 인자]]를 줄인다",
+       "k": 1,
+       "n": "☺ Pathogenesis. 혈소판 기능도 방해해 출혈 위험 증가."
+      },
+      {
+       "id": "cz-v2-sh1-30-14",
+       "t": "위장관 점막 보호·혈소판 응집을 담당하는 것은 [[COX-1]], 염증에 유도되는 것은 [[COX-2]]",
+       "k": 1,
+       "n": "☺ Pathophysiology of NSAID toxicity."
+      },
+      {
+       "id": "cz-v2-sh1-30-15",
+       "t": "NSAID 궤양 예방: [[PPI]] 처방, 비선택적 NSAID를 [[선택적 COX-2 억제제]]로 변경, H. pylori 제균",
+       "k": 1,
+       "n": "☺. 문족: 선택적 → 비선택적으로 변경(X)."
+      },
+      {
+       "id": "cz-v2-sh1-30-16",
+       "t": "CLO 검사 음성인 NSAID 궤양 환자는 제균 대상이 [[아니다]]",
+       "k": 1,
+       "n": "문족 오답 선지 (H. pylori 음성)."
+      },
+      {
+       "id": "cz-v2-sh1-30-17",
+       "t": "상부위장관 출혈에서 [[내시경 지혈 전]]에 고용량 PPI를 정주한다",
+       "k": 1,
+       "n": "☺ High dose PPI IV: 80mg bolus → 8mg/hr 72시간."
+      },
+      {
+       "id": "cz-v2-sh1-30-18",
+       "t": "고용량 PPI의 근거: 위산은 혈소판 응집을 [[억제]]하고, 중성 pH는 [[혈전(clot)]]을 안정시켜 재출혈을 막는다",
+       "k": 1,
+       "n": "☺."
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "name": "31. 탄수화물, 단백질의 흡수_김기우",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-31-1",
+       "t": "탄수화물·단백질·지질은 모두 주로 [[소장]]에서 흡수된다 (어디서 많이·적게는 알 필요 없음)",
+       "k": 1,
+       "n": "녹음: 어디가 많이 되고 조금 되는지는 알 필요 없고 큰 흐름만. 탄단지전 합쳐 4문제, 섞여 나옴."
+      },
+      {
+       "id": "cz-v2-sh1-31-2",
+       "t": "칼슘은 [[소장 전 구간]]에서 잘 흡수된다",
+       "k": 1,
+       "n": "녹음: '한 가지 알아두셔야 될 거'."
+      },
+      {
+       "id": "cz-v2-sh1-31-3",
+       "t": "담즙산은 [[말단 회장(terminal ileum)]]에서 재흡수돼 재활용, B12는 [[회장(ileum)]]에서 흡수",
+       "k": 1,
+       "n": "녹음 (두 번 말씀)."
+      },
+      {
+       "id": "cz-v2-sh1-31-4",
+       "t": "다당류는 lumen에서 [[α-amylase]]가 maltose·maltotriose·α-limit dextrin으로 자른다",
+       "k": 0,
+       "n": "급분바. 그다음 brush border 효소(lactase, glucoamylase, sucrase-isomaltase)가 단당류로."
+      },
+      {
+       "id": "cz-v2-sh1-31-5",
+       "t": "장 쪽(apical) 막에서 포도당·갈락토스를 Na⁺와 함께 들이는 수송체는 [[SGLT1]]",
+       "k": 1,
+       "n": "王 강조점. Na⁺-dependent."
+      },
+      {
+       "id": "cz-v2-sh1-31-6",
+       "t": "장 쪽(apical) 막에서 과당을 들이는 수송체는 [[GLUT5]]",
+       "k": 1,
+       "n": "王 강조점."
+      },
+      {
+       "id": "cz-v2-sh1-31-7",
+       "t": "혈관 쪽(basolateral) 막에서 포도당·갈락토스·과당을 모두 내보내는 수송체는 [[GLUT2]]",
+       "k": 1,
+       "n": "王 강조점: apical과 basolateral의 membrane component가 다르다!"
+      },
+      {
+       "id": "cz-v2-sh1-31-8",
+       "t": "췌장 단백분해효소는 [[zymogen]] 형태로 분비되고, [[enteropeptidase]]가 trypsinogen을 trypsin으로 바꿔 나머지를 활성화",
+       "k": 1,
+       "n": "급분바·녹음."
+      },
+      {
+       "id": "cz-v2-sh1-31-9",
+       "t": "di·tripeptide를 H⁺와 함께 들이는 apical 수송체는 [[PepT1]]",
+       "k": 0,
+       "n": "급분바. 세포 안에서 cytosolic peptidase가 아미노산으로 분해."
+      },
+      {
+       "id": "cz-v2-sh1-31-10",
+       "t": "아미노산 수송체는 apical과 basolateral 모두에 [[Na⁺ 의존성]]과 [[Na⁺ 비의존성]]이 다 있다",
+       "k": 1,
+       "n": "王 강조점. 녹음: 수송체 이름은 외우는 것 아님, 참고만."
+      },
+      {
+       "id": "cz-v2-sh1-31-11",
+       "t": "지질은 glycerol에 지방산이 [[ester 결합]]으로 붙어 있고, 자를 때는 물을 넣는 [[가수분해 효소(hydrolase)]]로 자른다",
+       "k": 1,
+       "n": "王 강조점 1. 녹음: 지질에서 딱 중요한 게 두 개."
+      },
+      {
+       "id": "cz-v2-sh1-31-12",
+       "t": "pancreatic lipase는 TG를 [[2-monoglyceride]]와 지방산 2개로 자른다",
+       "k": 1,
+       "n": "녹음: 이 두 개의 폼이 중요해요."
+      },
+      {
+       "id": "cz-v2-sh1-31-13",
+       "t": "bile salt는 지방을 작은 방울로 쪼개는 [[물리적 유화]], lipase는 결합을 끊는 [[화학적 소화]]",
+       "k": 1,
+       "n": "王 강조점 2. 녹음: 지질 소화에서 가장 중요한 건 bile acid."
+      },
+      {
+       "id": "cz-v2-sh1-31-14",
+       "t": "bile salt가 지방 표면을 덮어 lipase 접근이 일시적으로 떨어지는 시기는 [[lagging stage]]",
+       "k": 1,
+       "n": "王 강조점 2."
+      },
+      {
+       "id": "cz-v2-sh1-31-15",
+       "t": "bile salt로 덮인 표면에 lipase를 붙잡아 소화를 다시 높이는 것은 [[colipase]]",
+       "k": 1,
+       "n": "王 강조점 2. pancreatic lipase는 colipase-dependent."
+      },
+      {
+       "id": "cz-v2-sh1-31-16",
+       "t": "장세포 안에서 TG를 다시 합성해 lipoprotein과 함께 [[chylomicron]]을 만들고, [[lacteal]]로 보낸다",
+       "k": 1,
+       "n": "급분바. lacteal → 쇄골하정맥 → 온몸."
+      },
+      {
+       "id": "cz-v2-sh1-31-17",
+       "t": "bile acid의 기본 backbone은 [[cholic acid]] (예: 우루사 = UDCA)",
+       "k": 0,
+       "n": "족장 첨언: 이번 시간 강조점."
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "name": "32. 지질, 전해질의 흡수_김기우",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-32-1",
+       "t": "Na⁺는 포도당·아미노산과 함께 [[공동수송(cotransporter)]]으로 흡수된다 (jejunum, ileum)",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-32-2",
+       "t": "원위 대장에서 Na⁺를 흡수해 물을 빼고 [[dry feces]]를 만드는 데 기여하는 채널은 [[ENaC]]",
+       "k": 1,
+       "n": "급분바. 녹음."
+      },
+      {
+       "id": "cz-v2-sh1-32-3",
+       "t": "Na⁺/H⁺ 교환체와 Cl⁻/HCO₃⁻ 교환체가 [[병렬]]로 작용해 NaCl을 흡수 (ileum, proximal colon)",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-32-4",
+       "t": "장의 crypt cell에서 Cl⁻를 lumen으로 분비하는 apical 채널은 [[CFTR]]",
+       "k": 1,
+       "n": "王. 강조점 = Cholera toxin."
+      },
+      {
+       "id": "cz-v2-sh1-32-5",
+       "t": "CFTR로 분비할 Cl⁻를 basolateral 막에서 세포 안으로 들이는 것은 [[NKCC1]]",
+       "k": 1,
+       "n": "급분바. Na⁺/K⁺-ATPase를 억제하면 NKCC1 유입이 감소."
+      },
+      {
+       "id": "cz-v2-sh1-32-6",
+       "t": "Cholera toxin → [[cAMP]]↑ → [[PKA]] 활성화 → CFTR로 Cl⁻ 분비↑ → 물이 빠져 설사",
+       "k": 1,
+       "n": "王王 강조점. Cl⁻ 따라 Na⁺·물이 lumen으로."
+      },
+      {
+       "id": "cz-v2-sh1-32-7",
+       "t": "장독소(enterotoxin)는 [[cGMP]]를 올려 [[PKG]]로 같은 분비성 설사를 일으킨다",
+       "k": 1,
+       "n": "녹음·급분바 secretagogue 기전."
+      },
+      {
+       "id": "cz-v2-sh1-32-8",
+       "t": "Gq secretagogue: PLC → IP3 → [[Ca²⁺]]↑ → [[calmodulin]] kinase 활성화",
+       "k": 0,
+       "n": "급분바. 각 secretagogue 이름은 외우지 말 것."
+      },
+      {
+       "id": "cz-v2-sh1-32-9",
+       "t": "대장의 H⁺/K⁺ 펌프는 산증일 때 [[K⁺]]를 혈액으로 보내 몸의 [[pH]] 조절에 관여",
+       "k": 0,
+       "n": "급분바·녹음. K⁺ 과다 시 BK channel로 분비."
+      },
+      {
+       "id": "cz-v2-sh1-32-10",
+       "t": "Ca²⁺는 장세포 안에서 [[calbindin(CaBP)]]과 결합해 이동한다",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-32-11",
+       "t": "basolateral 막에서 Ca²⁺를 내보내는 것은 [[PMCA1b]]와 [[NCX1]]",
+       "k": 1,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-32-12",
+       "t": "활성형 비타민 D(1,25-(OH)₂D₃)는 [[핵 수용체(전사인자)]]로 작용해 [[calbindin]] 등을 더 만들어 흡수를 늘린다",
+       "k": 1,
+       "n": "급분바·녹음. 신장에서 PTH가 활성형으로."
+      }
+     ]
+    },
+    {
+     "id": "33",
+     "name": "33. 소화성궤양, 위염, 헬리코박터 파이로리_신성관",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-33-1",
+       "t": "위체부(body·fundus)에 있는 세포는 parietal cell과 [[chief cell]] — [[G cell]]은 전정부·십이지장",
+       "k": 1,
+       "n": "王王王 교수님 O/X 예고: 위체부에 존재하는 세포가 아닌 것 = G cell."
+      },
+      {
+       "id": "cz-v2-sh1-33-2",
+       "t": "위산 분비에 관여하는 세포: G cell, [[ECL cell]], parietal cell, [[미주신경 콜린성 신경세포]]",
+       "k": 1,
+       "n": "王王王 O/X 예고. 각각 gastrin, histamine, ACh."
+      },
+      {
+       "id": "cz-v2-sh1-33-3",
+       "t": "작은 손상은 주변 상피세포가 이동해 메우는 [[restitution]], 큰 결손은 세포 증식이 필요한 [[regeneration]]",
+       "k": 1,
+       "n": "O/X: 큰 궤양의 자가 복원에는 restitution과 regeneration이 같이 작동(O)."
+      },
+      {
+       "id": "cz-v2-sh1-33-4",
+       "t": "점막 건강을 유지하는 데 중요한 것은 [[prostaglandin]]",
+       "k": 1,
+       "n": "O/X (O)."
+      },
+      {
+       "id": "cz-v2-sh1-33-5",
+       "t": "H. pylori는 상피를 직접 침범하지 않고 점액에서 상피세포로 [[CagA]]를 찔러 넣는다",
+       "k": 1,
+       "n": "O/X: 점액에 존재하며 상피세포와 상호작용 없다(X)."
+      },
+      {
+       "id": "cz-v2-sh1-33-6",
+       "t": "H. pylori는 소화성 궤양뿐 아니라 [[위암]]과 [[MALT 림프종]]과도 관련",
+       "k": 1,
+       "n": "O/X (O)."
+      },
+      {
+       "id": "cz-v2-sh1-33-7",
+       "t": "A형 위염(type A gastritis)의 원인은 [[자가면역]] — 위체부에만 염증",
+       "k": 1,
+       "n": "교) 기억해라. H. pylori 위염은 전정부에서 시작해 체부로."
+      },
+      {
+       "id": "cz-v2-sh1-33-8",
+       "t": "아스피린·비선택적 NSAIDs가 위에 문제를 일으키는 이유는 [[COX-1, 2를 모두]] 억제하기 때문",
+       "k": 1,
+       "n": "교) 여러분이 알아야 할 것."
+      },
+      {
+       "id": "cz-v2-sh1-33-9",
+       "t": "NSAID는 산성인 위강에서 [[비이온형]]이라 세포막을 통과하고, 세포 안에서 이온형이 되어 [[갇힌다(trapping)]]",
+       "k": 0,
+       "n": "급분바 topical effect."
+      },
+      {
+       "id": "cz-v2-sh1-33-10",
+       "t": "점막근판(muscularis mucosae)까지 또는 그 아래로 내려가면 [[궤양]], lamina propria까지면 [[미란]]",
+       "k": 1,
+       "n": "O/X: 미란은 점막근판까지 침범한 것(X)."
+      },
+      {
+       "id": "cz-v2-sh1-33-11",
+       "t": "40대 이상 + 흑색변·원인 불명 체중 감소·약에 안 듣는 복통 중 하나라도 → [[상부위장관 내시경(EGD)]]",
+       "k": 1,
+       "n": "교) 의사로서 상식. '다음으로 적절한 조치는?'으로 나올 가능성 높음."
+      },
+      {
+       "id": "cz-v2-sh1-33-12",
+       "t": "EGD에서 위궤양을 발견하면 반드시 [[조직검사]] + [[H. pylori 감염 확인]]",
+       "k": 1,
+       "n": "교) 의사라면 꼭. 십이지장궤양은 악성 가능성 희박해 조직검사 선별적으로."
+      },
+      {
+       "id": "cz-v2-sh1-33-13",
+       "t": "urease를 이용한 H. pylori 검사 두 가지: [[rapid urease test (CLO)]]와 [[13C 요소호기검사(UBT)]]",
+       "k": 1,
+       "n": "교) 여러분 수준에서도 알아야. CLO = 침습, NH₃로 pH 변화 / UBT = 비침습, 날숨 ¹³CO₂."
+      },
+      {
+       "id": "cz-v2-sh1-33-14",
+       "t": "소화성 궤양의 가장 흔한 합병증은 [[위장관 출혈]]",
+       "k": 1,
+       "n": "급분바. 토혈·흑색변."
+      },
+      {
+       "id": "cz-v2-sh1-33-15",
+       "t": "토혈·흑색변 환자는 가장 먼저 [[vital sign(ABC)]]을 보고, 불안정하면 수액·수혈로 [[순환 혈액량]] 보충",
+       "k": 1,
+       "n": "O/X: 가장 먼저 항문 수지 검사(X). 교) 바로 내시경(X)."
+      },
+      {
+       "id": "cz-v2-sh1-33-16",
+       "t": "X-ray에서 우측 횡격막과 간 사이 free air → [[천공]] → [[응급 수술]]",
+       "k": 1,
+       "n": "교) 작년에 냈고 정답률도 좋았어요."
+      },
+      {
+       "id": "cz-v2-sh1-33-17",
+       "t": "유문부 궤양이 반복돼 흉터로 막히는 합병증은 [[gastric outlet obstruction]]",
+       "k": 0,
+       "n": "급분바."
+      },
+      {
+       "id": "cz-v2-sh1-33-18",
+       "t": "궤양 치료에 H. pylori 제균을 같이 하면 출혈 재발이 약 [[30%p]] 줄어든다 → 균이 있으면 [[제균 치료]]",
+       "k": 1,
+       "n": "교) 매우 중요한 개념. O/X (O)."
+      },
+      {
+       "id": "cz-v2-sh1-33-19",
+       "t": "H. pylori 제균 치료 대상에는 [[MALT 림프종]]도 들어간다",
+       "k": 1,
+       "n": "교) 의사로서 상식."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
